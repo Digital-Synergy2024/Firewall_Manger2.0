@@ -1,0 +1,2 @@
+Error Log File
+2025-04-03 19:34:55.255006 - ERROR: Failed to read log file: [Errno 2] No such file or directory: 'C:/xampp/apache/logs/error.log'

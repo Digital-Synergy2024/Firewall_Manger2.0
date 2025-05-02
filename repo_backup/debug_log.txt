@@ -1,0 +1,325 @@
+2025-04-01 13:01:33,375 - INFO - Application started.
+2025-04-01 13:01:33,376 - INFO - Checking if the script is running as an administrator.
+2025-04-01 13:01:33,377 - DEBUG - Admin status: True
+2025-04-01 13:01:33,377 - INFO - Admin status: True
+2025-04-01 13:01:33,377 - INFO - Admin privileges detected. Proceeding with application initialization.
+2025-04-01 13:01:33,377 - INFO - Checking Python installation.
+2025-04-01 13:01:33,377 - INFO - Checking Python installation.
+2025-04-01 13:01:33,378 - INFO - Python installation check completed.
+2025-04-01 13:01:33,378 - INFO - Checking dependencies.
+2025-04-01 13:01:33,378 - INFO - Initialization checks completed successfully.
+2025-04-01 13:06:15,643 - INFO - Application started.
+2025-04-01 13:06:15,643 - INFO - Checking if the script is running as an administrator.
+2025-04-01 13:06:15,644 - DEBUG - Admin status: True
+2025-04-01 13:06:15,644 - INFO - Admin status: True
+2025-04-01 13:06:15,644 - INFO - Admin privileges detected. Proceeding with application initialization.
+2025-04-01 13:06:15,644 - INFO - Checking Python installation.
+2025-04-01 13:06:15,644 - INFO - Checking Python installation.
+2025-04-01 13:06:15,645 - INFO - Python installation check completed.
+2025-04-01 13:06:15,645 - INFO - Checking dependencies.
+2025-04-01 13:06:15,645 - INFO - Initialization checks completed successfully.
+2025-04-01 13:06:25,587 - INFO - FirewallManagerApp initialized successfully.
+2025-04-01 13:24:24,756 - INFO - Application started.
+2025-04-01 13:24:24,765 - INFO - Checking if the script is running as an administrator.
+2025-04-01 13:24:24,766 - DEBUG - Admin status: True
+2025-04-01 13:24:24,766 - INFO - Admin status: True
+2025-04-01 13:24:24,766 - INFO - Admin privileges detected. Proceeding with application initialization.
+2025-04-01 13:24:24,766 - INFO - Checking Python installation.
+2025-04-01 13:24:24,766 - INFO - Checking Python installation.
+2025-04-01 13:24:24,767 - INFO - Python installation check completed.
+2025-04-01 13:24:24,767 - INFO - Checking dependencies.
+2025-04-01 13:24:24,767 - INFO - Initialization checks completed successfully.
+2025-04-01 13:24:33,699 - INFO - FirewallManagerApp initialized successfully.
+2025-04-01 13:36:22,328 - INFO - Application started.
+2025-04-01 13:36:22,328 - INFO - Checking if the script is running as an administrator.
+2025-04-01 13:36:22,329 - DEBUG - Admin status: True
+2025-04-01 13:36:22,329 - INFO - Admin status: True
+2025-04-01 13:36:22,329 - INFO - Admin privileges detected. Proceeding with application initialization.
+2025-04-01 13:36:22,329 - INFO - Checking Python installation.
+2025-04-01 13:36:22,329 - INFO - Checking Python installation.
+2025-04-01 13:36:22,330 - INFO - Python installation check completed.
+2025-04-01 13:36:22,330 - INFO - Checking dependencies.
+2025-04-01 13:36:22,330 - INFO - Initialization checks completed successfully.
+2025-04-01 13:36:31,926 - INFO - FirewallManagerApp initialized successfully.
+2025-04-01 13:37:02,983 - INFO - Application started.
+2025-04-01 13:37:02,983 - INFO - Checking if the script is running as an administrator.
+2025-04-01 13:37:02,984 - DEBUG - Admin status: True
+2025-04-01 13:37:02,984 - INFO - Admin status: True
+2025-04-01 13:37:02,984 - INFO - Admin privileges detected. Proceeding with application initialization.
+2025-04-01 13:37:02,984 - INFO - Checking Python installation.
+2025-04-01 13:37:02,984 - INFO - Checking Python installation.
+2025-04-01 13:37:02,984 - INFO - Python installation check completed.
+2025-04-01 13:37:02,984 - INFO - Checking dependencies.
+2025-04-01 13:37:02,985 - INFO - Initialization checks completed successfully.
+2025-04-01 13:37:13,466 - INFO - FirewallManagerApp initialized successfully.
+2025-04-01 13:38:04,802 - INFO - Application started.
+2025-04-01 13:38:04,802 - INFO - Checking if the script is running as an administrator.
+2025-04-01 13:38:04,803 - DEBUG - Admin status: True
+2025-04-01 13:38:04,803 - INFO - Admin status: True
+2025-04-01 13:38:04,803 - INFO - Admin privileges detected. Proceeding with application initialization.
+2025-04-01 13:38:04,803 - INFO - Checking Python installation.
+2025-04-01 13:38:04,803 - INFO - Checking Python installation.
+2025-04-01 13:38:04,804 - INFO - Python installation check completed.
+2025-04-01 13:38:04,804 - INFO - Checking dependencies.
+2025-04-01 13:38:04,804 - INFO - Initialization checks completed successfully.
+2025-04-01 13:38:13,934 - INFO - FirewallManagerApp initialized successfully.
+2025-04-01 13:39:29,283 - INFO - Application started.
+2025-04-01 13:39:29,283 - INFO - Checking if the script is running as an administrator.
+2025-04-01 13:39:29,284 - DEBUG - Admin status: True
+2025-04-01 13:39:29,284 - INFO - Admin status: True
+2025-04-01 13:39:29,284 - INFO - Admin privileges detected. Proceeding with application initialization.
+2025-04-01 13:39:29,285 - INFO - Checking Python installation.
+2025-04-01 13:39:29,285 - INFO - Checking Python installation.
+2025-04-01 13:39:29,285 - INFO - Python installation check completed.
+2025-04-01 13:39:29,285 - INFO - Checking dependencies.
+2025-04-01 13:39:29,285 - INFO - Initialization checks completed successfully.
+2025-04-01 13:39:47,916 - INFO - FirewallManagerApp initialized successfully.
+2025-04-01 13:42:31,950 - INFO - Application started.
+2025-04-01 13:42:31,950 - INFO - Checking if the script is running as an administrator.
+2025-04-01 13:42:31,951 - DEBUG - Admin status: True
+2025-04-01 13:42:31,951 - INFO - Admin status: True
+2025-04-01 13:42:31,951 - INFO - Admin privileges detected. Proceeding with application initialization.
+2025-04-01 13:42:31,951 - INFO - Checking Python installation.
+2025-04-01 13:42:31,951 - INFO - Checking Python installation.
+2025-04-01 13:42:31,952 - INFO - Python installation check completed.
+2025-04-01 13:42:31,952 - INFO - Checking dependencies.
+2025-04-01 13:42:31,952 - INFO - Initialization checks completed successfully.
+2025-04-01 13:42:41,488 - INFO - FirewallManagerApp initialized successfully.
+2025-04-01 13:48:34,673 - INFO - Application started.
+2025-04-01 13:48:34,673 - INFO - Checking if the script is running as an administrator.
+2025-04-01 13:48:34,674 - DEBUG - Admin status: True
+2025-04-01 13:48:34,674 - INFO - Admin status: True
+2025-04-01 13:48:34,675 - INFO - Admin privileges detected. Proceeding with application initialization.
+2025-04-01 13:48:34,675 - INFO - Checking Python installation.
+2025-04-01 13:48:34,675 - INFO - Checking Python installation.
+2025-04-01 13:48:34,675 - INFO - Python installation check completed.
+2025-04-01 13:48:34,675 - INFO - Checking dependencies.
+2025-04-01 13:48:34,675 - INFO - Initialization checks completed successfully.
+2025-04-01 13:50:22,944 - INFO - Application started.
+2025-04-01 13:50:22,944 - INFO - Checking if the script is running as an administrator.
+2025-04-01 13:50:22,945 - DEBUG - Admin status: True
+2025-04-01 13:50:22,945 - INFO - Admin status: True
+2025-04-01 13:50:22,945 - INFO - Admin privileges detected. Proceeding with application initialization.
+2025-04-01 13:50:22,945 - INFO - Checking Python installation.
+2025-04-01 13:50:22,945 - INFO - Checking Python installation.
+2025-04-01 13:50:22,946 - INFO - Python installation check completed.
+2025-04-01 13:50:22,946 - INFO - Checking dependencies.
+2025-04-01 13:50:22,946 - INFO - Initialization checks completed successfully.
+2025-04-01 13:51:29,804 - INFO - Application started.
+2025-04-01 13:51:29,804 - INFO - Checking if the script is running as an administrator.
+2025-04-01 13:51:29,805 - DEBUG - Admin status: True
+2025-04-01 13:51:29,805 - INFO - Admin status: True
+2025-04-01 13:51:29,805 - INFO - Admin privileges detected. Proceeding with application initialization.
+2025-04-01 13:51:29,805 - INFO - Checking Python installation.
+2025-04-01 13:51:29,805 - INFO - Checking Python installation.
+2025-04-01 13:51:29,806 - INFO - Python installation check completed.
+2025-04-01 13:51:29,806 - INFO - Checking dependencies.
+2025-04-01 13:51:29,806 - INFO - Initialization checks completed successfully.
+2025-04-01 13:52:31,193 - INFO - Application started.
+2025-04-01 13:52:31,193 - INFO - Checking if the script is running as an administrator.
+2025-04-01 13:52:31,195 - DEBUG - Admin status: True
+2025-04-01 13:52:31,195 - INFO - Admin status: True
+2025-04-01 13:52:31,195 - INFO - Admin privileges detected. Proceeding with application initialization.
+2025-04-01 13:52:31,195 - INFO - Checking Python installation.
+2025-04-01 13:52:31,195 - INFO - Checking Python installation.
+2025-04-01 13:52:31,195 - INFO - Python installation check completed.
+2025-04-01 13:52:31,195 - INFO - Checking dependencies.
+2025-04-01 13:52:31,196 - INFO - Initialization checks completed successfully.
+2025-04-01 13:52:42,534 - INFO - FirewallManagerApp initialized successfully.
+2025-04-01 14:01:38,316 - INFO - Application started.
+2025-04-01 14:01:38,316 - INFO - Checking if the script is running as an administrator.
+2025-04-01 14:01:38,317 - DEBUG - Admin status: True
+2025-04-01 14:01:38,317 - INFO - Admin status: True
+2025-04-01 14:01:38,317 - INFO - Admin privileges detected. Proceeding with application initialization.
+2025-04-01 14:01:38,317 - INFO - Checking Python installation.
+2025-04-01 14:01:38,317 - INFO - Checking Python installation.
+2025-04-01 14:01:38,318 - INFO - Python installation check completed.
+2025-04-01 14:01:38,318 - INFO - Checking dependencies.
+2025-04-01 14:01:38,318 - INFO - Initialization checks completed successfully.
+2025-04-01 14:01:47,178 - INFO - FirewallManagerApp initialized successfully.
+2025-04-01 14:02:48,846 - INFO - Application started.
+2025-04-01 14:02:48,846 - INFO - Checking if the script is running as an administrator.
+2025-04-01 14:02:48,847 - DEBUG - Admin status: True
+2025-04-01 14:02:48,847 - INFO - Admin status: True
+2025-04-01 14:02:48,847 - INFO - Admin privileges detected. Proceeding with application initialization.
+2025-04-01 14:02:48,847 - INFO - Checking Python installation.
+2025-04-01 14:02:48,847 - INFO - Checking Python installation.
+2025-04-01 14:02:48,848 - INFO - Python installation check completed.
+2025-04-01 14:02:48,848 - INFO - Checking dependencies.
+2025-04-01 14:02:48,848 - INFO - Initialization checks completed successfully.
+2025-04-01 14:02:55,692 - INFO - FirewallManagerApp initialized successfully.
+2025-04-01 14:07:37,008 - INFO - Application started.
+2025-04-01 14:07:37,008 - INFO - Checking if the script is running as an administrator.
+2025-04-01 14:07:37,009 - DEBUG - Admin status: True
+2025-04-01 14:07:37,009 - INFO - Admin status: True
+2025-04-01 14:07:37,009 - INFO - Admin privileges detected. Proceeding with application initialization.
+2025-04-01 14:07:37,009 - INFO - Checking Python installation.
+2025-04-01 14:07:37,009 - INFO - Checking Python installation.
+2025-04-01 14:07:37,010 - INFO - Python installation check completed.
+2025-04-01 14:07:37,010 - INFO - Checking dependencies.
+2025-04-01 14:07:37,010 - INFO - Initialization checks completed successfully.
+2025-04-01 14:07:46,982 - INFO - FirewallManagerApp initialized successfully.
+2025-04-01 14:08:10,375 - INFO - Logging action: Enabled profile: MySQL
+2025-04-01 14:09:18,460 - INFO - Application started.
+2025-04-01 14:09:18,460 - INFO - Checking if the script is running as an administrator.
+2025-04-01 14:09:18,461 - DEBUG - Admin status: True
+2025-04-01 14:09:18,461 - INFO - Admin status: True
+2025-04-01 14:09:18,461 - INFO - Admin privileges detected. Proceeding with application initialization.
+2025-04-01 14:09:18,461 - INFO - Checking Python installation.
+2025-04-01 14:09:18,461 - INFO - Checking Python installation.
+2025-04-01 14:09:18,462 - INFO - Python installation check completed.
+2025-04-01 14:09:18,462 - INFO - Checking dependencies.
+2025-04-01 14:09:18,462 - INFO - Initialization checks completed successfully.
+2025-04-01 14:09:26,888 - INFO - FirewallManagerApp initialized successfully.
+2025-04-01 14:09:40,987 - INFO - Logging action: Enabled profile: MySQL
+2025-04-01 14:12:09,876 - INFO - Application started.
+2025-04-01 14:12:09,876 - INFO - Checking if the script is running as an administrator.
+2025-04-01 14:12:09,877 - DEBUG - Admin status: True
+2025-04-01 14:12:09,877 - INFO - Admin status: True
+2025-04-01 14:12:09,877 - INFO - Admin privileges detected. Proceeding with application initialization.
+2025-04-01 14:12:09,877 - INFO - Checking Python installation.
+2025-04-01 14:12:09,877 - INFO - Checking Python installation.
+2025-04-01 14:12:09,878 - INFO - Python installation check completed.
+2025-04-01 14:12:09,878 - INFO - Checking dependencies.
+2025-04-01 14:12:09,878 - INFO - Initialization checks completed successfully.
+2025-04-01 14:12:18,983 - INFO - Ensuring log files exist.
+2025-04-01 14:12:18,983 - INFO - Log files check completed.
+2025-04-01 14:12:18,983 - INFO - FirewallManagerApp initialized successfully.
+2025-04-01 14:12:29,916 - INFO - Logging action: Enabled profile: MySQL
+2025-04-01 14:12:52,061 - INFO - Logging action: Enabled profile: HTTP
+2025-04-01 14:13:24,955 - INFO - Logging action: Enabled profile: HTTPS
+2025-04-01 14:13:39,801 - INFO - Logging action: Enabled profile: FTP
+2025-04-01 14:13:45,461 - INFO - Logging action: Enabled profile: SPT FIKA
+2025-04-01 14:13:56,183 - INFO - Logging action: Enabled profile: Discord
+2025-04-01 14:21:24,568 - INFO - Application started.
+2025-04-01 14:21:24,568 - INFO - Checking if the script is running as an administrator.
+2025-04-01 14:21:24,569 - DEBUG - Admin status: True
+2025-04-01 14:21:24,569 - INFO - Admin status: True
+2025-04-01 14:21:24,569 - INFO - Admin privileges detected. Proceeding with application initialization.
+2025-04-01 14:21:24,569 - INFO - Checking Python installation.
+2025-04-01 14:21:24,569 - INFO - Checking Python installation.
+2025-04-01 14:21:24,570 - INFO - Python installation check completed.
+2025-04-01 14:21:24,570 - INFO - Checking dependencies.
+2025-04-01 14:21:24,570 - INFO - Initialization checks completed successfully.
+2025-04-01 14:21:33,991 - INFO - Ensuring log files exist.
+2025-04-01 14:21:33,992 - INFO - Log files check completed.
+2025-04-01 14:21:33,992 - INFO - FirewallManagerApp initialized successfully.
+2025-04-01 14:23:27,851 - INFO - Application started.
+2025-04-01 14:23:27,851 - INFO - Checking if the script is running as an administrator.
+2025-04-01 14:23:27,852 - DEBUG - Admin status: True
+2025-04-01 14:23:27,852 - INFO - Admin status: True
+2025-04-01 14:23:27,852 - INFO - Admin privileges detected. Proceeding with application initialization.
+2025-04-01 14:23:27,852 - INFO - Checking Python installation.
+2025-04-01 14:23:27,852 - INFO - Checking Python installation.
+2025-04-01 14:23:27,853 - INFO - Python installation check completed.
+2025-04-01 14:23:27,853 - INFO - Checking dependencies.
+2025-04-01 14:23:27,853 - INFO - Initialization checks completed successfully.
+2025-04-01 14:23:35,929 - INFO - Ensuring log files exist.
+2025-04-01 14:23:35,929 - INFO - Log files check completed.
+2025-04-01 14:23:35,929 - INFO - FirewallManagerApp initialized successfully.
+2025-04-01 14:26:08,992 - INFO - Application started.
+2025-04-01 14:26:08,992 - INFO - Checking if the script is running as an administrator.
+2025-04-01 14:26:08,993 - DEBUG - Admin status: True
+2025-04-01 14:26:08,993 - INFO - Admin status: True
+2025-04-01 14:26:08,993 - INFO - Admin privileges detected. Proceeding with application initialization.
+2025-04-01 14:26:08,993 - INFO - Checking Python installation.
+2025-04-01 14:26:08,993 - INFO - Checking Python installation.
+2025-04-01 14:26:08,994 - INFO - Python installation check completed.
+2025-04-01 14:26:08,994 - INFO - Checking dependencies.
+2025-04-01 14:26:08,994 - INFO - Initialization checks completed successfully.
+2025-04-01 14:26:20,842 - INFO - Ensuring log files exist.
+2025-04-01 14:26:20,843 - INFO - Log files check completed.
+2025-04-01 14:26:20,843 - INFO - FirewallManagerApp initialized successfully.
+2025-04-01 14:39:42,100 - INFO - Application started.
+2025-04-01 14:39:42,100 - INFO - Checking if the script is running as an administrator.
+2025-04-01 14:39:42,101 - DEBUG - Admin status: True
+2025-04-01 14:39:42,101 - INFO - Admin status: True
+2025-04-01 14:39:42,102 - INFO - Admin privileges detected. Proceeding with application initialization.
+2025-04-01 14:39:42,102 - INFO - Checking Python installation.
+2025-04-01 14:39:42,102 - INFO - Checking Python installation.
+2025-04-01 14:39:42,102 - INFO - Python installation check completed.
+2025-04-01 14:39:42,102 - INFO - Checking dependencies.
+2025-04-01 14:39:42,102 - INFO - Initialization checks completed successfully.
+2025-04-01 14:39:51,372 - INFO - Ensuring log files exist.
+2025-04-01 14:39:51,372 - INFO - Log files check completed.
+2025-04-01 14:39:51,372 - INFO - FirewallManagerApp initialized successfully.
+2025-04-01 14:40:56,619 - INFO - Application started.
+2025-04-01 14:40:56,619 - INFO - Checking if the script is running as an administrator.
+2025-04-01 14:40:56,620 - DEBUG - Admin status: True
+2025-04-01 14:40:56,620 - INFO - Admin status: True
+2025-04-01 14:40:56,620 - INFO - Admin privileges detected. Proceeding with application initialization.
+2025-04-01 14:40:56,620 - INFO - Checking Python installation.
+2025-04-01 14:40:56,620 - INFO - Checking Python installation.
+2025-04-01 14:40:56,621 - INFO - Python installation check completed.
+2025-04-01 14:40:56,621 - INFO - Checking dependencies.
+2025-04-01 14:40:56,621 - INFO - Initialization checks completed successfully.
+2025-04-01 14:41:05,654 - INFO - Ensuring log files exist.
+2025-04-01 14:41:05,654 - INFO - Log files check completed.
+2025-04-01 14:41:05,655 - INFO - FirewallManagerApp initialized successfully.
+2025-04-01 14:59:12,917 - INFO - Application started.
+2025-04-01 14:59:12,918 - INFO - Checking if the script is running as an administrator.
+2025-04-01 14:59:12,919 - DEBUG - Admin status: True
+2025-04-01 14:59:12,919 - INFO - Admin status: True
+2025-04-01 14:59:12,919 - INFO - Admin privileges detected. Proceeding with application initialization.
+2025-04-01 14:59:12,919 - INFO - Checking Python installation.
+2025-04-01 14:59:12,919 - INFO - Checking Python installation.
+2025-04-01 14:59:12,919 - INFO - Python installation check completed.
+2025-04-01 14:59:12,919 - INFO - Checking dependencies.
+2025-04-01 14:59:12,920 - INFO - Initialization checks completed successfully.
+2025-04-01 14:59:22,775 - INFO - Ensuring log files exist.
+2025-04-01 14:59:22,775 - INFO - Log files check completed.
+2025-04-01 14:59:22,775 - INFO - FirewallManagerApp initialized successfully.
+2025-04-01 14:59:39,428 - DEBUG - Checking for updates...
+2025-04-01 14:59:39,439 - DEBUG - Starting new HTTP connection (1): 162.248.94.164:80
+2025-04-01 14:59:39,499 - DEBUG - http://162.248.94.164:80 "GET /N3xG3n_Firewall_Manager/version.txt HTTP/1.1" 200 5
+2025-04-01 14:59:39,499 - DEBUG - Current version: 1.2.5, Latest version: 1.2.5
+2025-04-01 14:59:39,503 - INFO - No updates found. The application is up-to-date.
+2025-04-01 15:06:46,111 - INFO - Application started.
+2025-04-01 15:06:46,111 - INFO - Checking if the script is running as an administrator.
+2025-04-01 15:06:46,112 - DEBUG - Admin status: True
+2025-04-01 15:06:46,112 - INFO - Admin status: True
+2025-04-01 15:06:46,112 - INFO - Admin privileges detected. Proceeding with application initialization.
+2025-04-01 15:06:46,112 - INFO - Checking Python installation.
+2025-04-01 15:06:46,112 - INFO - Checking Python installation.
+2025-04-01 15:06:46,113 - INFO - Python installation check completed.
+2025-04-01 15:06:46,113 - INFO - Checking dependencies.
+2025-04-01 15:06:46,113 - INFO - Initialization checks completed successfully.
+2025-04-01 15:06:56,288 - INFO - Ensuring log files exist.
+2025-04-01 15:06:56,288 - INFO - Log files check completed.
+2025-04-01 15:06:56,288 - INFO - FirewallManagerApp initialized successfully.
+2025-04-01 15:10:59,524 - INFO - Application started.
+2025-04-01 15:10:59,524 - INFO - Checking if the script is running as an administrator.
+2025-04-01 15:10:59,525 - DEBUG - Admin status: True
+2025-04-01 15:10:59,525 - INFO - Admin status: True
+2025-04-01 15:10:59,525 - INFO - Admin privileges detected. Proceeding with application initialization.
+2025-04-01 15:10:59,525 - INFO - Checking Python installation.
+2025-04-01 15:10:59,525 - INFO - Checking Python installation.
+2025-04-01 15:10:59,526 - INFO - Python installation check completed.
+2025-04-01 15:10:59,526 - INFO - Checking dependencies.
+2025-04-01 15:10:59,526 - INFO - Initialization checks completed successfully.
+2025-04-01 15:11:08,172 - INFO - Ensuring log files exist.
+2025-04-01 15:11:08,172 - INFO - Log files check completed.
+2025-04-01 15:11:08,172 - INFO - FirewallManagerApp initialized successfully.
+2025-04-01 15:11:29,803 - DEBUG - Checking for updates...
+2025-04-01 15:11:29,805 - DEBUG - Starting new HTTP connection (1): 162.248.94.164:80
+2025-04-01 15:11:29,870 - DEBUG - http://162.248.94.164:80 "GET /N3xG3n_Firewall_Manager/version.txt HTTP/1.1" 200 5
+2025-04-01 15:11:29,870 - DEBUG - Current version: 1.2.5, Latest version: 1.2.5
+2025-04-01 15:11:29,874 - INFO - No updates found. The application is up-to-date.
+2025-04-02 05:31:40,997 - INFO - Application started.
+2025-04-02 05:31:40,997 - INFO - Checking if the script is running as an administrator.
+2025-04-02 05:31:40,998 - DEBUG - Admin status: True
+2025-04-02 05:31:40,998 - INFO - Admin status: True
+2025-04-02 05:31:40,998 - INFO - Admin privileges detected. Proceeding with application initialization.
+2025-04-02 05:31:40,998 - INFO - Checking Python installation.
+2025-04-02 05:31:40,998 - INFO - Checking Python installation.
+2025-04-02 05:31:40,999 - INFO - Python installation check completed.
+2025-04-02 05:31:40,999 - INFO - Checking dependencies.
+2025-04-02 05:31:40,999 - INFO - Initialization checks completed successfully.
+2025-04-02 05:31:54,057 - INFO - Ensuring log files exist.
+2025-04-02 05:31:54,058 - INFO - Log files check completed.
+2025-04-02 05:31:54,058 - INFO - FirewallManagerApp initialized successfully.
+2025-04-02 05:32:22,049 - DEBUG - Checking for updates...
+2025-04-02 05:32:22,062 - DEBUG - Starting new HTTP connection (1): 162.248.94.164:80
+2025-04-02 05:32:22,146 - DEBUG - http://162.248.94.164:80 "GET /N3xG3n_Firewall_Manager/version.txt HTTP/1.1" 200 5
+2025-04-02 05:32:22,146 - DEBUG - Current version: 1.2.8, Latest version: 1.2.8
+2025-04-02 05:32:22,151 - INFO - No updates found. The application is up-to-date.

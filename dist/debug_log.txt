@@ -1,0 +1,1100 @@
+2025-04-01 13:07:23,620 - INFO - Application started.
+2025-04-01 13:07:23,620 - INFO - Checking if the script is running as an administrator.
+2025-04-01 13:07:23,622 - DEBUG - Admin status: False
+2025-04-01 13:07:23,622 - INFO - Admin status: False
+2025-04-01 13:07:23,622 - DEBUG - Admin privileges not detected. Attempting to relaunch as admin.
+2025-04-01 13:07:23,622 - INFO - Attempting to relaunch the script with administrator privileges.
+2025-04-01 13:07:25,096 - INFO - Relaunched successfully. Exiting current instance.
+2025-04-01 13:07:26,723 - INFO - Application started.
+2025-04-01 13:07:26,723 - INFO - Checking if the script is running as an administrator.
+2025-04-01 13:07:26,725 - DEBUG - Admin status: True
+2025-04-01 13:07:26,725 - INFO - Admin status: True
+2025-04-01 13:07:26,725 - INFO - Admin privileges detected. Proceeding with application initialization.
+2025-04-01 13:07:26,725 - INFO - Checking Python installation.
+2025-04-01 13:07:26,725 - INFO - Checking Python installation.
+2025-04-01 13:07:26,725 - INFO - Python installation check completed.
+2025-04-01 13:07:26,725 - INFO - Checking dependencies.
+2025-04-01 13:07:26,725 - INFO - Checking dependencies.
+2025-04-01 13:07:27,231 - INFO - Application started.
+2025-04-01 13:07:27,231 - INFO - Checking if the script is running as an administrator.
+2025-04-01 13:07:27,233 - DEBUG - Admin status: True
+2025-04-01 13:07:27,233 - INFO - Admin status: True
+2025-04-01 13:07:27,233 - INFO - Admin privileges detected. Proceeding with application initialization.
+2025-04-01 13:07:27,233 - INFO - Checking Python installation.
+2025-04-01 13:07:27,233 - INFO - Checking Python installation.
+2025-04-01 13:07:27,233 - INFO - Python installation check completed.
+2025-04-01 13:07:27,233 - INFO - Checking dependencies.
+2025-04-01 13:07:27,233 - INFO - Checking dependencies.
+2025-04-01 13:07:27,735 - INFO - Application started.
+2025-04-01 13:07:27,735 - INFO - Checking if the script is running as an administrator.
+2025-04-01 13:07:27,736 - DEBUG - Admin status: True
+2025-04-01 13:07:27,736 - INFO - Admin status: True
+2025-04-01 13:07:27,736 - INFO - Admin privileges detected. Proceeding with application initialization.
+2025-04-01 13:07:27,736 - INFO - Checking Python installation.
+2025-04-01 13:07:27,736 - INFO - Checking Python installation.
+2025-04-01 13:07:27,737 - INFO - Python installation check completed.
+2025-04-01 13:07:27,737 - INFO - Checking dependencies.
+2025-04-01 13:07:27,737 - INFO - Checking dependencies.
+2025-04-01 13:07:28,244 - INFO - Application started.
+2025-04-01 13:07:28,245 - INFO - Checking if the script is running as an administrator.
+2025-04-01 13:07:28,246 - DEBUG - Admin status: True
+2025-04-01 13:07:28,246 - INFO - Admin status: True
+2025-04-01 13:07:28,246 - INFO - Admin privileges detected. Proceeding with application initialization.
+2025-04-01 13:07:28,246 - INFO - Checking Python installation.
+2025-04-01 13:07:28,246 - INFO - Checking Python installation.
+2025-04-01 13:07:28,247 - INFO - Python installation check completed.
+2025-04-01 13:07:28,247 - INFO - Checking dependencies.
+2025-04-01 13:07:28,247 - INFO - Checking dependencies.
+2025-04-01 13:07:28,768 - INFO - Application started.
+2025-04-01 13:07:28,768 - INFO - Checking if the script is running as an administrator.
+2025-04-01 13:07:28,770 - DEBUG - Admin status: True
+2025-04-01 13:07:28,770 - INFO - Admin status: True
+2025-04-01 13:07:28,770 - INFO - Admin privileges detected. Proceeding with application initialization.
+2025-04-01 13:07:28,770 - INFO - Checking Python installation.
+2025-04-01 13:07:28,770 - INFO - Checking Python installation.
+2025-04-01 13:07:28,770 - INFO - Python installation check completed.
+2025-04-01 13:07:28,770 - INFO - Checking dependencies.
+2025-04-01 13:07:28,770 - INFO - Checking dependencies.
+2025-04-01 13:07:29,288 - INFO - Application started.
+2025-04-01 13:07:29,288 - INFO - Checking if the script is running as an administrator.
+2025-04-01 13:07:29,289 - DEBUG - Admin status: True
+2025-04-01 13:07:29,289 - INFO - Admin status: True
+2025-04-01 13:07:29,289 - INFO - Admin privileges detected. Proceeding with application initialization.
+2025-04-01 13:07:29,290 - INFO - Checking Python installation.
+2025-04-01 13:07:29,290 - INFO - Checking Python installation.
+2025-04-01 13:07:29,290 - INFO - Python installation check completed.
+2025-04-01 13:07:29,290 - INFO - Checking dependencies.
+2025-04-01 13:07:29,290 - INFO - Checking dependencies.
+2025-04-01 13:07:29,797 - INFO - Application started.
+2025-04-01 13:07:29,798 - INFO - Checking if the script is running as an administrator.
+2025-04-01 13:07:29,799 - DEBUG - Admin status: True
+2025-04-01 13:07:29,799 - INFO - Admin status: True
+2025-04-01 13:07:29,799 - INFO - Admin privileges detected. Proceeding with application initialization.
+2025-04-01 13:07:29,799 - INFO - Checking Python installation.
+2025-04-01 13:07:29,799 - INFO - Checking Python installation.
+2025-04-01 13:07:29,800 - INFO - Python installation check completed.
+2025-04-01 13:07:29,800 - INFO - Checking dependencies.
+2025-04-01 13:07:29,800 - INFO - Checking dependencies.
+2025-04-01 13:07:30,297 - INFO - Application started.
+2025-04-01 13:07:30,298 - INFO - Checking if the script is running as an administrator.
+2025-04-01 13:07:30,299 - DEBUG - Admin status: True
+2025-04-01 13:07:30,299 - INFO - Admin status: True
+2025-04-01 13:07:30,299 - INFO - Admin privileges detected. Proceeding with application initialization.
+2025-04-01 13:07:30,299 - INFO - Checking Python installation.
+2025-04-01 13:07:30,299 - INFO - Checking Python installation.
+2025-04-01 13:07:30,300 - INFO - Python installation check completed.
+2025-04-01 13:07:30,300 - INFO - Checking dependencies.
+2025-04-01 13:07:30,300 - INFO - Checking dependencies.
+2025-04-01 13:07:30,800 - INFO - Application started.
+2025-04-01 13:07:30,800 - INFO - Checking if the script is running as an administrator.
+2025-04-01 13:07:30,801 - DEBUG - Admin status: True
+2025-04-01 13:07:30,801 - INFO - Admin status: True
+2025-04-01 13:07:30,801 - INFO - Admin privileges detected. Proceeding with application initialization.
+2025-04-01 13:07:30,801 - INFO - Checking Python installation.
+2025-04-01 13:07:30,801 - INFO - Checking Python installation.
+2025-04-01 13:07:30,802 - INFO - Python installation check completed.
+2025-04-01 13:07:30,802 - INFO - Checking dependencies.
+2025-04-01 13:07:30,802 - INFO - Checking dependencies.
+2025-04-01 13:07:31,300 - INFO - Application started.
+2025-04-01 13:07:31,300 - INFO - Checking if the script is running as an administrator.
+2025-04-01 13:07:31,301 - DEBUG - Admin status: True
+2025-04-01 13:07:31,301 - INFO - Admin status: True
+2025-04-01 13:07:31,302 - INFO - Admin privileges detected. Proceeding with application initialization.
+2025-04-01 13:07:31,302 - INFO - Checking Python installation.
+2025-04-01 13:07:31,302 - INFO - Checking Python installation.
+2025-04-01 13:07:31,302 - INFO - Python installation check completed.
+2025-04-01 13:07:31,302 - INFO - Checking dependencies.
+2025-04-01 13:07:31,302 - INFO - Checking dependencies.
+2025-04-01 13:07:31,800 - INFO - Application started.
+2025-04-01 13:07:31,800 - INFO - Checking if the script is running as an administrator.
+2025-04-01 13:07:31,801 - DEBUG - Admin status: True
+2025-04-01 13:07:31,801 - INFO - Admin status: True
+2025-04-01 13:07:31,801 - INFO - Admin privileges detected. Proceeding with application initialization.
+2025-04-01 13:07:31,801 - INFO - Checking Python installation.
+2025-04-01 13:07:31,801 - INFO - Checking Python installation.
+2025-04-01 13:07:31,802 - INFO - Python installation check completed.
+2025-04-01 13:07:31,802 - INFO - Checking dependencies.
+2025-04-01 13:07:31,802 - INFO - Checking dependencies.
+2025-04-01 13:07:32,301 - INFO - Application started.
+2025-04-01 13:07:32,301 - INFO - Checking if the script is running as an administrator.
+2025-04-01 13:07:32,302 - DEBUG - Admin status: True
+2025-04-01 13:07:32,302 - INFO - Admin status: True
+2025-04-01 13:07:32,302 - INFO - Admin privileges detected. Proceeding with application initialization.
+2025-04-01 13:07:32,302 - INFO - Checking Python installation.
+2025-04-01 13:07:32,302 - INFO - Checking Python installation.
+2025-04-01 13:07:32,303 - INFO - Python installation check completed.
+2025-04-01 13:07:32,303 - INFO - Checking dependencies.
+2025-04-01 13:07:32,303 - INFO - Checking dependencies.
+2025-04-01 13:07:32,798 - INFO - Application started.
+2025-04-01 13:07:32,798 - INFO - Checking if the script is running as an administrator.
+2025-04-01 13:07:32,799 - DEBUG - Admin status: True
+2025-04-01 13:07:32,799 - INFO - Admin status: True
+2025-04-01 13:07:32,799 - INFO - Admin privileges detected. Proceeding with application initialization.
+2025-04-01 13:07:32,799 - INFO - Checking Python installation.
+2025-04-01 13:07:32,799 - INFO - Checking Python installation.
+2025-04-01 13:07:32,800 - INFO - Python installation check completed.
+2025-04-01 13:07:32,800 - INFO - Checking dependencies.
+2025-04-01 13:07:32,800 - INFO - Checking dependencies.
+2025-04-01 13:07:33,303 - INFO - Application started.
+2025-04-01 13:07:33,304 - INFO - Checking if the script is running as an administrator.
+2025-04-01 13:07:33,305 - DEBUG - Admin status: True
+2025-04-01 13:07:33,305 - INFO - Admin status: True
+2025-04-01 13:07:33,305 - INFO - Admin privileges detected. Proceeding with application initialization.
+2025-04-01 13:07:33,305 - INFO - Checking Python installation.
+2025-04-01 13:07:33,305 - INFO - Checking Python installation.
+2025-04-01 13:07:33,306 - INFO - Python installation check completed.
+2025-04-01 13:07:33,306 - INFO - Checking dependencies.
+2025-04-01 13:07:33,306 - INFO - Checking dependencies.
+2025-04-01 13:07:33,809 - INFO - Application started.
+2025-04-01 13:07:33,809 - INFO - Checking if the script is running as an administrator.
+2025-04-01 13:07:33,811 - DEBUG - Admin status: True
+2025-04-01 13:07:33,811 - INFO - Admin status: True
+2025-04-01 13:07:33,811 - INFO - Admin privileges detected. Proceeding with application initialization.
+2025-04-01 13:07:33,811 - INFO - Checking Python installation.
+2025-04-01 13:07:33,811 - INFO - Checking Python installation.
+2025-04-01 13:07:33,811 - INFO - Python installation check completed.
+2025-04-01 13:07:33,812 - INFO - Checking dependencies.
+2025-04-01 13:07:33,812 - INFO - Checking dependencies.
+2025-04-01 13:07:34,306 - INFO - Application started.
+2025-04-01 13:07:34,306 - INFO - Checking if the script is running as an administrator.
+2025-04-01 13:07:34,308 - DEBUG - Admin status: True
+2025-04-01 13:07:34,308 - INFO - Admin status: True
+2025-04-01 13:07:34,308 - INFO - Admin privileges detected. Proceeding with application initialization.
+2025-04-01 13:07:34,308 - INFO - Checking Python installation.
+2025-04-01 13:07:34,308 - INFO - Checking Python installation.
+2025-04-01 13:07:34,308 - INFO - Python installation check completed.
+2025-04-01 13:07:34,308 - INFO - Checking dependencies.
+2025-04-01 13:07:34,309 - INFO - Checking dependencies.
+2025-04-01 13:07:34,808 - INFO - Application started.
+2025-04-01 13:07:34,808 - INFO - Checking if the script is running as an administrator.
+2025-04-01 13:07:34,809 - DEBUG - Admin status: True
+2025-04-01 13:07:34,809 - INFO - Admin status: True
+2025-04-01 13:07:34,809 - INFO - Admin privileges detected. Proceeding with application initialization.
+2025-04-01 13:07:34,809 - INFO - Checking Python installation.
+2025-04-01 13:07:34,809 - INFO - Checking Python installation.
+2025-04-01 13:07:34,810 - INFO - Python installation check completed.
+2025-04-01 13:07:34,810 - INFO - Checking dependencies.
+2025-04-01 13:07:34,810 - INFO - Checking dependencies.
+2025-04-01 13:07:35,317 - INFO - Application started.
+2025-04-01 13:07:35,317 - INFO - Checking if the script is running as an administrator.
+2025-04-01 13:07:35,318 - DEBUG - Admin status: True
+2025-04-01 13:07:35,318 - INFO - Admin status: True
+2025-04-01 13:07:35,318 - INFO - Admin privileges detected. Proceeding with application initialization.
+2025-04-01 13:07:35,318 - INFO - Checking Python installation.
+2025-04-01 13:07:35,318 - INFO - Checking Python installation.
+2025-04-01 13:07:35,319 - INFO - Python installation check completed.
+2025-04-01 13:07:35,319 - INFO - Checking dependencies.
+2025-04-01 13:07:35,319 - INFO - Checking dependencies.
+2025-04-01 13:07:35,818 - INFO - Application started.
+2025-04-01 13:07:35,818 - INFO - Checking if the script is running as an administrator.
+2025-04-01 13:07:35,819 - DEBUG - Admin status: True
+2025-04-01 13:07:35,819 - INFO - Admin status: True
+2025-04-01 13:07:35,819 - INFO - Admin privileges detected. Proceeding with application initialization.
+2025-04-01 13:07:35,819 - INFO - Checking Python installation.
+2025-04-01 13:07:35,819 - INFO - Checking Python installation.
+2025-04-01 13:07:35,820 - INFO - Python installation check completed.
+2025-04-01 13:07:35,820 - INFO - Checking dependencies.
+2025-04-01 13:07:35,820 - INFO - Checking dependencies.
+2025-04-01 13:07:36,322 - INFO - Application started.
+2025-04-01 13:07:36,322 - INFO - Checking if the script is running as an administrator.
+2025-04-01 13:07:36,323 - DEBUG - Admin status: True
+2025-04-01 13:07:36,323 - INFO - Admin status: True
+2025-04-01 13:07:36,323 - INFO - Admin privileges detected. Proceeding with application initialization.
+2025-04-01 13:07:36,323 - INFO - Checking Python installation.
+2025-04-01 13:07:36,323 - INFO - Checking Python installation.
+2025-04-01 13:07:36,324 - INFO - Python installation check completed.
+2025-04-01 13:07:36,324 - INFO - Checking dependencies.
+2025-04-01 13:07:36,324 - INFO - Checking dependencies.
+2025-04-01 13:07:36,825 - INFO - Application started.
+2025-04-01 13:07:36,825 - INFO - Checking if the script is running as an administrator.
+2025-04-01 13:07:36,826 - DEBUG - Admin status: True
+2025-04-01 13:07:36,826 - INFO - Admin status: True
+2025-04-01 13:07:36,826 - INFO - Admin privileges detected. Proceeding with application initialization.
+2025-04-01 13:07:36,826 - INFO - Checking Python installation.
+2025-04-01 13:07:36,826 - INFO - Checking Python installation.
+2025-04-01 13:07:36,827 - INFO - Python installation check completed.
+2025-04-01 13:07:36,827 - INFO - Checking dependencies.
+2025-04-01 13:07:36,827 - INFO - Checking dependencies.
+2025-04-01 13:07:37,329 - INFO - Application started.
+2025-04-01 13:07:37,329 - INFO - Checking if the script is running as an administrator.
+2025-04-01 13:07:37,330 - DEBUG - Admin status: True
+2025-04-01 13:07:37,330 - INFO - Admin status: True
+2025-04-01 13:07:37,330 - INFO - Admin privileges detected. Proceeding with application initialization.
+2025-04-01 13:07:37,330 - INFO - Checking Python installation.
+2025-04-01 13:07:37,330 - INFO - Checking Python installation.
+2025-04-01 13:07:37,331 - INFO - Python installation check completed.
+2025-04-01 13:07:37,331 - INFO - Checking dependencies.
+2025-04-01 13:07:37,331 - INFO - Checking dependencies.
+2025-04-01 13:07:37,841 - INFO - Application started.
+2025-04-01 13:07:37,841 - INFO - Checking if the script is running as an administrator.
+2025-04-01 13:07:37,842 - DEBUG - Admin status: True
+2025-04-01 13:07:37,842 - INFO - Admin status: True
+2025-04-01 13:07:37,842 - INFO - Admin privileges detected. Proceeding with application initialization.
+2025-04-01 13:07:37,842 - INFO - Checking Python installation.
+2025-04-01 13:07:37,842 - INFO - Checking Python installation.
+2025-04-01 13:07:37,843 - INFO - Python installation check completed.
+2025-04-01 13:07:37,843 - INFO - Checking dependencies.
+2025-04-01 13:07:37,843 - INFO - Checking dependencies.
+2025-04-01 13:07:38,350 - INFO - Application started.
+2025-04-01 13:07:38,350 - INFO - Checking if the script is running as an administrator.
+2025-04-01 13:07:38,352 - DEBUG - Admin status: True
+2025-04-01 13:07:38,352 - INFO - Admin status: True
+2025-04-01 13:07:38,352 - INFO - Admin privileges detected. Proceeding with application initialization.
+2025-04-01 13:07:38,352 - INFO - Checking Python installation.
+2025-04-01 13:07:38,352 - INFO - Checking Python installation.
+2025-04-01 13:07:38,352 - INFO - Python installation check completed.
+2025-04-01 13:07:38,352 - INFO - Checking dependencies.
+2025-04-01 13:07:38,353 - INFO - Checking dependencies.
+2025-04-01 13:07:38,853 - INFO - Application started.
+2025-04-01 13:07:38,853 - INFO - Checking if the script is running as an administrator.
+2025-04-01 13:07:38,855 - DEBUG - Admin status: True
+2025-04-01 13:07:38,855 - INFO - Admin status: True
+2025-04-01 13:07:38,855 - INFO - Admin privileges detected. Proceeding with application initialization.
+2025-04-01 13:07:38,855 - INFO - Checking Python installation.
+2025-04-01 13:07:38,855 - INFO - Checking Python installation.
+2025-04-01 13:07:38,855 - INFO - Python installation check completed.
+2025-04-01 13:07:38,855 - INFO - Checking dependencies.
+2025-04-01 13:07:38,855 - INFO - Checking dependencies.
+2025-04-01 13:07:39,361 - INFO - Application started.
+2025-04-01 13:07:39,361 - INFO - Checking if the script is running as an administrator.
+2025-04-01 13:07:39,362 - DEBUG - Admin status: True
+2025-04-01 13:07:39,362 - INFO - Admin status: True
+2025-04-01 13:07:39,362 - INFO - Admin privileges detected. Proceeding with application initialization.
+2025-04-01 13:07:39,362 - INFO - Checking Python installation.
+2025-04-01 13:07:39,362 - INFO - Checking Python installation.
+2025-04-01 13:07:39,363 - INFO - Python installation check completed.
+2025-04-01 13:07:39,363 - INFO - Checking dependencies.
+2025-04-01 13:07:39,363 - INFO - Checking dependencies.
+2025-04-01 13:07:39,870 - INFO - Application started.
+2025-04-01 13:07:39,870 - INFO - Checking if the script is running as an administrator.
+2025-04-01 13:07:39,871 - DEBUG - Admin status: True
+2025-04-01 13:07:39,871 - INFO - Admin status: True
+2025-04-01 13:07:39,871 - INFO - Admin privileges detected. Proceeding with application initialization.
+2025-04-01 13:07:39,871 - INFO - Checking Python installation.
+2025-04-01 13:07:39,871 - INFO - Checking Python installation.
+2025-04-01 13:07:39,872 - INFO - Python installation check completed.
+2025-04-01 13:07:39,872 - INFO - Checking dependencies.
+2025-04-01 13:07:39,872 - INFO - Checking dependencies.
+2025-04-01 13:07:40,373 - INFO - Application started.
+2025-04-01 13:07:40,374 - INFO - Checking if the script is running as an administrator.
+2025-04-01 13:07:40,375 - DEBUG - Admin status: True
+2025-04-01 13:07:40,375 - INFO - Admin status: True
+2025-04-01 13:07:40,375 - INFO - Admin privileges detected. Proceeding with application initialization.
+2025-04-01 13:07:40,375 - INFO - Checking Python installation.
+2025-04-01 13:07:40,375 - INFO - Checking Python installation.
+2025-04-01 13:07:40,375 - INFO - Python installation check completed.
+2025-04-01 13:07:40,376 - INFO - Checking dependencies.
+2025-04-01 13:07:40,376 - INFO - Checking dependencies.
+2025-04-01 13:07:40,881 - INFO - Application started.
+2025-04-01 13:07:40,881 - INFO - Checking if the script is running as an administrator.
+2025-04-01 13:07:40,882 - DEBUG - Admin status: True
+2025-04-01 13:07:40,882 - INFO - Admin status: True
+2025-04-01 13:07:40,882 - INFO - Admin privileges detected. Proceeding with application initialization.
+2025-04-01 13:07:40,882 - INFO - Checking Python installation.
+2025-04-01 13:07:40,882 - INFO - Checking Python installation.
+2025-04-01 13:07:40,883 - INFO - Python installation check completed.
+2025-04-01 13:07:40,883 - INFO - Checking dependencies.
+2025-04-01 13:07:40,883 - INFO - Checking dependencies.
+2025-04-01 13:07:41,398 - INFO - Application started.
+2025-04-01 13:07:41,399 - INFO - Checking if the script is running as an administrator.
+2025-04-01 13:07:41,400 - DEBUG - Admin status: True
+2025-04-01 13:07:41,400 - INFO - Admin status: True
+2025-04-01 13:07:41,400 - INFO - Admin privileges detected. Proceeding with application initialization.
+2025-04-01 13:07:41,400 - INFO - Checking Python installation.
+2025-04-01 13:07:41,400 - INFO - Checking Python installation.
+2025-04-01 13:07:41,401 - INFO - Python installation check completed.
+2025-04-01 13:07:41,401 - INFO - Checking dependencies.
+2025-04-01 13:07:41,401 - INFO - Checking dependencies.
+2025-04-01 13:07:41,918 - INFO - Application started.
+2025-04-01 13:07:41,918 - INFO - Checking if the script is running as an administrator.
+2025-04-01 13:07:41,919 - DEBUG - Admin status: True
+2025-04-01 13:07:41,919 - INFO - Admin status: True
+2025-04-01 13:07:41,920 - INFO - Admin privileges detected. Proceeding with application initialization.
+2025-04-01 13:07:41,920 - INFO - Checking Python installation.
+2025-04-01 13:07:41,920 - INFO - Checking Python installation.
+2025-04-01 13:07:41,920 - INFO - Python installation check completed.
+2025-04-01 13:07:41,920 - INFO - Checking dependencies.
+2025-04-01 13:07:41,920 - INFO - Checking dependencies.
+2025-04-01 13:07:42,471 - INFO - Application started.
+2025-04-01 13:07:42,471 - INFO - Checking if the script is running as an administrator.
+2025-04-01 13:07:42,472 - DEBUG - Admin status: True
+2025-04-01 13:07:42,472 - INFO - Admin status: True
+2025-04-01 13:07:42,472 - INFO - Admin privileges detected. Proceeding with application initialization.
+2025-04-01 13:07:42,472 - INFO - Checking Python installation.
+2025-04-01 13:07:42,472 - INFO - Checking Python installation.
+2025-04-01 13:07:42,473 - INFO - Python installation check completed.
+2025-04-01 13:07:42,473 - INFO - Checking dependencies.
+2025-04-01 13:07:42,473 - INFO - Checking dependencies.
+2025-04-01 13:07:42,969 - INFO - Application started.
+2025-04-01 13:07:42,969 - INFO - Checking if the script is running as an administrator.
+2025-04-01 13:07:42,971 - DEBUG - Admin status: True
+2025-04-01 13:07:42,971 - INFO - Admin status: True
+2025-04-01 13:07:42,971 - INFO - Admin privileges detected. Proceeding with application initialization.
+2025-04-01 13:07:42,971 - INFO - Checking Python installation.
+2025-04-01 13:07:42,971 - INFO - Checking Python installation.
+2025-04-01 13:07:42,971 - INFO - Python installation check completed.
+2025-04-01 13:07:42,972 - INFO - Checking dependencies.
+2025-04-01 13:07:42,972 - INFO - Checking dependencies.
+2025-04-01 13:07:43,477 - INFO - Application started.
+2025-04-01 13:07:43,477 - INFO - Checking if the script is running as an administrator.
+2025-04-01 13:07:43,478 - DEBUG - Admin status: True
+2025-04-01 13:07:43,478 - INFO - Admin status: True
+2025-04-01 13:07:43,478 - INFO - Admin privileges detected. Proceeding with application initialization.
+2025-04-01 13:07:43,478 - INFO - Checking Python installation.
+2025-04-01 13:07:43,478 - INFO - Checking Python installation.
+2025-04-01 13:07:43,479 - INFO - Python installation check completed.
+2025-04-01 13:07:43,479 - INFO - Checking dependencies.
+2025-04-01 13:07:43,479 - INFO - Checking dependencies.
+2025-04-01 13:07:43,976 - INFO - Application started.
+2025-04-01 13:07:43,976 - INFO - Checking if the script is running as an administrator.
+2025-04-01 13:07:43,977 - DEBUG - Admin status: True
+2025-04-01 13:07:43,977 - INFO - Admin status: True
+2025-04-01 13:07:43,977 - INFO - Admin privileges detected. Proceeding with application initialization.
+2025-04-01 13:07:43,977 - INFO - Checking Python installation.
+2025-04-01 13:07:43,977 - INFO - Checking Python installation.
+2025-04-01 13:07:43,978 - INFO - Python installation check completed.
+2025-04-01 13:07:43,978 - INFO - Checking dependencies.
+2025-04-01 13:07:43,978 - INFO - Checking dependencies.
+2025-04-01 13:07:44,479 - INFO - Application started.
+2025-04-01 13:07:44,479 - INFO - Checking if the script is running as an administrator.
+2025-04-01 13:07:44,480 - DEBUG - Admin status: True
+2025-04-01 13:07:44,481 - INFO - Admin status: True
+2025-04-01 13:07:44,481 - INFO - Admin privileges detected. Proceeding with application initialization.
+2025-04-01 13:07:44,481 - INFO - Checking Python installation.
+2025-04-01 13:07:44,481 - INFO - Checking Python installation.
+2025-04-01 13:07:44,481 - INFO - Python installation check completed.
+2025-04-01 13:07:44,481 - INFO - Checking dependencies.
+2025-04-01 13:07:44,481 - INFO - Checking dependencies.
+2025-04-01 13:07:44,976 - INFO - Application started.
+2025-04-01 13:07:44,976 - INFO - Checking if the script is running as an administrator.
+2025-04-01 13:07:44,977 - DEBUG - Admin status: True
+2025-04-01 13:07:44,977 - INFO - Admin status: True
+2025-04-01 13:07:44,977 - INFO - Admin privileges detected. Proceeding with application initialization.
+2025-04-01 13:07:44,978 - INFO - Checking Python installation.
+2025-04-01 13:07:44,978 - INFO - Checking Python installation.
+2025-04-01 13:07:44,978 - INFO - Python installation check completed.
+2025-04-01 13:07:44,978 - INFO - Checking dependencies.
+2025-04-01 13:07:44,978 - INFO - Checking dependencies.
+2025-04-01 13:07:45,479 - INFO - Application started.
+2025-04-01 13:07:45,479 - INFO - Checking if the script is running as an administrator.
+2025-04-01 13:07:45,480 - DEBUG - Admin status: True
+2025-04-01 13:07:45,480 - INFO - Admin status: True
+2025-04-01 13:07:45,481 - INFO - Admin privileges detected. Proceeding with application initialization.
+2025-04-01 13:07:45,481 - INFO - Checking Python installation.
+2025-04-01 13:07:45,481 - INFO - Checking Python installation.
+2025-04-01 13:07:45,481 - INFO - Python installation check completed.
+2025-04-01 13:07:45,481 - INFO - Checking dependencies.
+2025-04-01 13:07:45,481 - INFO - Checking dependencies.
+2025-04-01 13:07:45,979 - INFO - Application started.
+2025-04-01 13:07:45,979 - INFO - Checking if the script is running as an administrator.
+2025-04-01 13:07:45,981 - DEBUG - Admin status: True
+2025-04-01 13:07:45,981 - INFO - Admin status: True
+2025-04-01 13:07:45,981 - INFO - Admin privileges detected. Proceeding with application initialization.
+2025-04-01 13:07:45,981 - INFO - Checking Python installation.
+2025-04-01 13:07:45,981 - INFO - Checking Python installation.
+2025-04-01 13:07:45,981 - INFO - Python installation check completed.
+2025-04-01 13:07:45,981 - INFO - Checking dependencies.
+2025-04-01 13:07:45,981 - INFO - Checking dependencies.
+2025-04-01 13:07:46,485 - INFO - Application started.
+2025-04-01 13:07:46,485 - INFO - Checking if the script is running as an administrator.
+2025-04-01 13:07:46,487 - DEBUG - Admin status: True
+2025-04-01 13:07:46,487 - INFO - Admin status: True
+2025-04-01 13:07:46,487 - INFO - Admin privileges detected. Proceeding with application initialization.
+2025-04-01 13:07:46,487 - INFO - Checking Python installation.
+2025-04-01 13:07:46,487 - INFO - Checking Python installation.
+2025-04-01 13:07:46,487 - INFO - Python installation check completed.
+2025-04-01 13:07:46,487 - INFO - Checking dependencies.
+2025-04-01 13:07:46,488 - INFO - Checking dependencies.
+2025-04-01 13:07:46,996 - INFO - Application started.
+2025-04-01 13:07:46,996 - INFO - Checking if the script is running as an administrator.
+2025-04-01 13:07:46,997 - DEBUG - Admin status: True
+2025-04-01 13:07:46,997 - INFO - Admin status: True
+2025-04-01 13:07:46,998 - INFO - Admin privileges detected. Proceeding with application initialization.
+2025-04-01 13:07:46,998 - INFO - Checking Python installation.
+2025-04-01 13:07:46,998 - INFO - Checking Python installation.
+2025-04-01 13:07:46,998 - INFO - Python installation check completed.
+2025-04-01 13:07:46,998 - INFO - Checking dependencies.
+2025-04-01 13:07:46,998 - INFO - Checking dependencies.
+2025-04-01 13:07:47,512 - INFO - Application started.
+2025-04-01 13:07:47,512 - INFO - Checking if the script is running as an administrator.
+2025-04-01 13:07:47,514 - DEBUG - Admin status: True
+2025-04-01 13:07:47,514 - INFO - Admin status: True
+2025-04-01 13:07:47,514 - INFO - Admin privileges detected. Proceeding with application initialization.
+2025-04-01 13:07:47,514 - INFO - Checking Python installation.
+2025-04-01 13:07:47,514 - INFO - Checking Python installation.
+2025-04-01 13:07:47,514 - INFO - Python installation check completed.
+2025-04-01 13:07:47,514 - INFO - Checking dependencies.
+2025-04-01 13:07:47,515 - INFO - Checking dependencies.
+2025-04-01 13:07:48,019 - INFO - Application started.
+2025-04-01 13:07:48,020 - INFO - Checking if the script is running as an administrator.
+2025-04-01 13:07:48,021 - DEBUG - Admin status: True
+2025-04-01 13:07:48,021 - INFO - Admin status: True
+2025-04-01 13:07:48,021 - INFO - Admin privileges detected. Proceeding with application initialization.
+2025-04-01 13:07:48,021 - INFO - Checking Python installation.
+2025-04-01 13:07:48,021 - INFO - Checking Python installation.
+2025-04-01 13:07:48,022 - INFO - Python installation check completed.
+2025-04-01 13:07:48,022 - INFO - Checking dependencies.
+2025-04-01 13:07:48,022 - INFO - Checking dependencies.
+2025-04-01 13:07:48,525 - INFO - Application started.
+2025-04-01 13:07:48,526 - INFO - Checking if the script is running as an administrator.
+2025-04-01 13:07:48,527 - DEBUG - Admin status: True
+2025-04-01 13:07:48,527 - INFO - Admin status: True
+2025-04-01 13:07:48,527 - INFO - Admin privileges detected. Proceeding with application initialization.
+2025-04-01 13:07:48,527 - INFO - Checking Python installation.
+2025-04-01 13:07:48,527 - INFO - Checking Python installation.
+2025-04-01 13:07:48,527 - INFO - Python installation check completed.
+2025-04-01 13:07:48,528 - INFO - Checking dependencies.
+2025-04-01 13:07:48,528 - INFO - Checking dependencies.
+2025-04-01 13:07:49,028 - INFO - Application started.
+2025-04-01 13:07:49,028 - INFO - Checking if the script is running as an administrator.
+2025-04-01 13:07:49,029 - DEBUG - Admin status: True
+2025-04-01 13:07:49,029 - INFO - Admin status: True
+2025-04-01 13:07:49,029 - INFO - Admin privileges detected. Proceeding with application initialization.
+2025-04-01 13:07:49,029 - INFO - Checking Python installation.
+2025-04-01 13:07:49,029 - INFO - Checking Python installation.
+2025-04-01 13:07:49,030 - INFO - Python installation check completed.
+2025-04-01 13:07:49,030 - INFO - Checking dependencies.
+2025-04-01 13:07:49,030 - INFO - Checking dependencies.
+2025-04-01 13:07:49,537 - INFO - Application started.
+2025-04-01 13:07:49,537 - INFO - Checking if the script is running as an administrator.
+2025-04-01 13:07:49,538 - DEBUG - Admin status: True
+2025-04-01 13:07:49,538 - INFO - Admin status: True
+2025-04-01 13:07:49,538 - INFO - Admin privileges detected. Proceeding with application initialization.
+2025-04-01 13:07:49,538 - INFO - Checking Python installation.
+2025-04-01 13:07:49,539 - INFO - Checking Python installation.
+2025-04-01 13:07:49,539 - INFO - Python installation check completed.
+2025-04-01 13:07:49,539 - INFO - Checking dependencies.
+2025-04-01 13:07:49,539 - INFO - Checking dependencies.
+2025-04-01 13:07:50,038 - INFO - Application started.
+2025-04-01 13:07:50,039 - INFO - Checking if the script is running as an administrator.
+2025-04-01 13:07:50,040 - DEBUG - Admin status: True
+2025-04-01 13:07:50,040 - INFO - Admin status: True
+2025-04-01 13:07:50,040 - INFO - Admin privileges detected. Proceeding with application initialization.
+2025-04-01 13:07:50,040 - INFO - Checking Python installation.
+2025-04-01 13:07:50,040 - INFO - Checking Python installation.
+2025-04-01 13:07:50,040 - INFO - Python installation check completed.
+2025-04-01 13:07:50,041 - INFO - Checking dependencies.
+2025-04-01 13:07:50,041 - INFO - Checking dependencies.
+2025-04-01 13:07:50,550 - INFO - Application started.
+2025-04-01 13:07:50,550 - INFO - Checking if the script is running as an administrator.
+2025-04-01 13:07:50,551 - DEBUG - Admin status: True
+2025-04-01 13:07:50,551 - INFO - Admin status: True
+2025-04-01 13:07:50,551 - INFO - Admin privileges detected. Proceeding with application initialization.
+2025-04-01 13:07:50,551 - INFO - Checking Python installation.
+2025-04-01 13:07:50,551 - INFO - Checking Python installation.
+2025-04-01 13:07:50,552 - INFO - Python installation check completed.
+2025-04-01 13:07:50,552 - INFO - Checking dependencies.
+2025-04-01 13:07:50,552 - INFO - Checking dependencies.
+2025-04-01 13:07:51,048 - INFO - Application started.
+2025-04-01 13:07:51,048 - INFO - Checking if the script is running as an administrator.
+2025-04-01 13:07:51,050 - DEBUG - Admin status: True
+2025-04-01 13:07:51,050 - INFO - Admin status: True
+2025-04-01 13:07:51,050 - INFO - Admin privileges detected. Proceeding with application initialization.
+2025-04-01 13:07:51,050 - INFO - Checking Python installation.
+2025-04-01 13:07:51,050 - INFO - Checking Python installation.
+2025-04-01 13:07:51,050 - INFO - Python installation check completed.
+2025-04-01 13:07:51,050 - INFO - Checking dependencies.
+2025-04-01 13:07:51,050 - INFO - Checking dependencies.
+2025-04-01 13:07:51,551 - INFO - Application started.
+2025-04-01 13:07:51,551 - INFO - Checking if the script is running as an administrator.
+2025-04-01 13:07:51,552 - DEBUG - Admin status: True
+2025-04-01 13:07:51,552 - INFO - Admin status: True
+2025-04-01 13:07:51,552 - INFO - Admin privileges detected. Proceeding with application initialization.
+2025-04-01 13:07:51,552 - INFO - Checking Python installation.
+2025-04-01 13:07:51,552 - INFO - Checking Python installation.
+2025-04-01 13:07:51,553 - INFO - Python installation check completed.
+2025-04-01 13:07:51,553 - INFO - Checking dependencies.
+2025-04-01 13:07:51,553 - INFO - Checking dependencies.
+2025-04-01 13:07:52,052 - INFO - Application started.
+2025-04-01 13:07:52,052 - INFO - Checking if the script is running as an administrator.
+2025-04-01 13:07:52,053 - DEBUG - Admin status: True
+2025-04-01 13:07:52,053 - INFO - Admin status: True
+2025-04-01 13:07:52,053 - INFO - Admin privileges detected. Proceeding with application initialization.
+2025-04-01 13:07:52,053 - INFO - Checking Python installation.
+2025-04-01 13:07:52,053 - INFO - Checking Python installation.
+2025-04-01 13:07:52,054 - INFO - Python installation check completed.
+2025-04-01 13:07:52,054 - INFO - Checking dependencies.
+2025-04-01 13:07:52,054 - INFO - Checking dependencies.
+2025-04-01 13:07:52,562 - INFO - Application started.
+2025-04-01 13:07:52,562 - INFO - Checking if the script is running as an administrator.
+2025-04-01 13:07:52,563 - DEBUG - Admin status: True
+2025-04-01 13:07:52,563 - INFO - Admin status: True
+2025-04-01 13:07:52,563 - INFO - Admin privileges detected. Proceeding with application initialization.
+2025-04-01 13:07:52,563 - INFO - Checking Python installation.
+2025-04-01 13:07:52,563 - INFO - Checking Python installation.
+2025-04-01 13:07:52,564 - INFO - Python installation check completed.
+2025-04-01 13:07:52,564 - INFO - Checking dependencies.
+2025-04-01 13:07:52,564 - INFO - Checking dependencies.
+2025-04-01 13:07:53,068 - INFO - Application started.
+2025-04-01 13:07:53,068 - INFO - Checking if the script is running as an administrator.
+2025-04-01 13:07:53,069 - DEBUG - Admin status: True
+2025-04-01 13:07:53,069 - INFO - Admin status: True
+2025-04-01 13:07:53,069 - INFO - Admin privileges detected. Proceeding with application initialization.
+2025-04-01 13:07:53,069 - INFO - Checking Python installation.
+2025-04-01 13:07:53,069 - INFO - Checking Python installation.
+2025-04-01 13:07:53,070 - INFO - Python installation check completed.
+2025-04-01 13:07:53,070 - INFO - Checking dependencies.
+2025-04-01 13:07:53,070 - INFO - Checking dependencies.
+2025-04-01 13:07:53,569 - INFO - Application started.
+2025-04-01 13:07:53,569 - INFO - Checking if the script is running as an administrator.
+2025-04-01 13:07:53,571 - DEBUG - Admin status: True
+2025-04-01 13:07:53,571 - INFO - Admin status: True
+2025-04-01 13:07:53,571 - INFO - Admin privileges detected. Proceeding with application initialization.
+2025-04-01 13:07:53,571 - INFO - Checking Python installation.
+2025-04-01 13:07:53,571 - INFO - Checking Python installation.
+2025-04-01 13:07:53,571 - INFO - Python installation check completed.
+2025-04-01 13:07:53,571 - INFO - Checking dependencies.
+2025-04-01 13:07:53,572 - INFO - Checking dependencies.
+2025-04-01 13:07:54,078 - INFO - Application started.
+2025-04-01 13:07:54,078 - INFO - Checking if the script is running as an administrator.
+2025-04-01 13:07:54,079 - DEBUG - Admin status: True
+2025-04-01 13:07:54,080 - INFO - Admin status: True
+2025-04-01 13:07:54,080 - INFO - Admin privileges detected. Proceeding with application initialization.
+2025-04-01 13:07:54,080 - INFO - Checking Python installation.
+2025-04-01 13:07:54,080 - INFO - Checking Python installation.
+2025-04-01 13:07:54,080 - INFO - Python installation check completed.
+2025-04-01 13:07:54,080 - INFO - Checking dependencies.
+2025-04-01 13:07:54,080 - INFO - Checking dependencies.
+2025-04-01 13:07:54,584 - INFO - Application started.
+2025-04-01 13:07:54,584 - INFO - Checking if the script is running as an administrator.
+2025-04-01 13:07:54,585 - DEBUG - Admin status: True
+2025-04-01 13:07:54,586 - INFO - Admin status: True
+2025-04-01 13:07:54,586 - INFO - Admin privileges detected. Proceeding with application initialization.
+2025-04-01 13:07:54,586 - INFO - Checking Python installation.
+2025-04-01 13:07:54,586 - INFO - Checking Python installation.
+2025-04-01 13:07:54,586 - INFO - Python installation check completed.
+2025-04-01 13:07:54,586 - INFO - Checking dependencies.
+2025-04-01 13:07:54,586 - INFO - Checking dependencies.
+2025-04-01 13:07:55,088 - INFO - Application started.
+2025-04-01 13:07:55,088 - INFO - Checking if the script is running as an administrator.
+2025-04-01 13:07:55,089 - DEBUG - Admin status: True
+2025-04-01 13:07:55,089 - INFO - Admin status: True
+2025-04-01 13:07:55,090 - INFO - Admin privileges detected. Proceeding with application initialization.
+2025-04-01 13:07:55,090 - INFO - Checking Python installation.
+2025-04-01 13:07:55,090 - INFO - Checking Python installation.
+2025-04-01 13:07:55,090 - INFO - Python installation check completed.
+2025-04-01 13:07:55,090 - INFO - Checking dependencies.
+2025-04-01 13:07:55,090 - INFO - Checking dependencies.
+2025-04-01 13:07:55,590 - INFO - Application started.
+2025-04-01 13:07:55,591 - INFO - Checking if the script is running as an administrator.
+2025-04-01 13:07:55,592 - DEBUG - Admin status: True
+2025-04-01 13:07:55,592 - INFO - Admin status: True
+2025-04-01 13:07:55,592 - INFO - Admin privileges detected. Proceeding with application initialization.
+2025-04-01 13:07:55,592 - INFO - Checking Python installation.
+2025-04-01 13:07:55,592 - INFO - Checking Python installation.
+2025-04-01 13:07:55,593 - INFO - Python installation check completed.
+2025-04-01 13:07:55,593 - INFO - Checking dependencies.
+2025-04-01 13:07:55,593 - INFO - Checking dependencies.
+2025-04-01 13:07:56,097 - INFO - Application started.
+2025-04-01 13:07:56,097 - INFO - Checking if the script is running as an administrator.
+2025-04-01 13:07:56,098 - DEBUG - Admin status: True
+2025-04-01 13:07:56,098 - INFO - Admin status: True
+2025-04-01 13:07:56,098 - INFO - Admin privileges detected. Proceeding with application initialization.
+2025-04-01 13:07:56,098 - INFO - Checking Python installation.
+2025-04-01 13:07:56,098 - INFO - Checking Python installation.
+2025-04-01 13:07:56,099 - INFO - Python installation check completed.
+2025-04-01 13:07:56,099 - INFO - Checking dependencies.
+2025-04-01 13:07:56,099 - INFO - Checking dependencies.
+2025-04-01 13:07:56,606 - INFO - Application started.
+2025-04-01 13:07:56,606 - INFO - Checking if the script is running as an administrator.
+2025-04-01 13:07:56,607 - DEBUG - Admin status: True
+2025-04-01 13:07:56,607 - INFO - Admin status: True
+2025-04-01 13:07:56,607 - INFO - Admin privileges detected. Proceeding with application initialization.
+2025-04-01 13:07:56,607 - INFO - Checking Python installation.
+2025-04-01 13:07:56,607 - INFO - Checking Python installation.
+2025-04-01 13:07:56,608 - INFO - Python installation check completed.
+2025-04-01 13:07:56,608 - INFO - Checking dependencies.
+2025-04-01 13:07:56,608 - INFO - Checking dependencies.
+2025-04-01 13:07:57,120 - INFO - Application started.
+2025-04-01 13:07:57,120 - INFO - Checking if the script is running as an administrator.
+2025-04-01 13:07:57,121 - DEBUG - Admin status: True
+2025-04-01 13:07:57,122 - INFO - Admin status: True
+2025-04-01 13:07:57,122 - INFO - Admin privileges detected. Proceeding with application initialization.
+2025-04-01 13:07:57,122 - INFO - Checking Python installation.
+2025-04-01 13:07:57,122 - INFO - Checking Python installation.
+2025-04-01 13:07:57,122 - INFO - Python installation check completed.
+2025-04-01 13:07:57,122 - INFO - Checking dependencies.
+2025-04-01 13:07:57,122 - INFO - Checking dependencies.
+2025-04-01 13:07:57,692 - INFO - Application started.
+2025-04-01 13:07:57,692 - INFO - Checking if the script is running as an administrator.
+2025-04-01 13:07:57,694 - DEBUG - Admin status: True
+2025-04-01 13:07:57,694 - INFO - Admin status: True
+2025-04-01 13:07:57,694 - INFO - Admin privileges detected. Proceeding with application initialization.
+2025-04-01 13:07:57,694 - INFO - Checking Python installation.
+2025-04-01 13:07:57,694 - INFO - Checking Python installation.
+2025-04-01 13:07:57,695 - INFO - Python installation check completed.
+2025-04-01 13:07:57,695 - INFO - Checking dependencies.
+2025-04-01 13:07:57,695 - INFO - Checking dependencies.
+2025-04-01 13:07:58,214 - INFO - Application started.
+2025-04-01 13:07:58,214 - INFO - Checking if the script is running as an administrator.
+2025-04-01 13:07:58,215 - DEBUG - Admin status: True
+2025-04-01 13:07:58,215 - INFO - Admin status: True
+2025-04-01 13:07:58,215 - INFO - Admin privileges detected. Proceeding with application initialization.
+2025-04-01 13:07:58,215 - INFO - Checking Python installation.
+2025-04-01 13:07:58,215 - INFO - Checking Python installation.
+2025-04-01 13:07:58,216 - INFO - Python installation check completed.
+2025-04-01 13:07:58,216 - INFO - Checking dependencies.
+2025-04-01 13:07:58,216 - INFO - Checking dependencies.
+2025-04-01 13:07:58,722 - INFO - Application started.
+2025-04-01 13:07:58,722 - INFO - Checking if the script is running as an administrator.
+2025-04-01 13:07:58,723 - DEBUG - Admin status: True
+2025-04-01 13:07:58,723 - INFO - Admin status: True
+2025-04-01 13:07:58,723 - INFO - Admin privileges detected. Proceeding with application initialization.
+2025-04-01 13:07:58,723 - INFO - Checking Python installation.
+2025-04-01 13:07:58,723 - INFO - Checking Python installation.
+2025-04-01 13:07:58,724 - INFO - Python installation check completed.
+2025-04-01 13:07:58,724 - INFO - Checking dependencies.
+2025-04-01 13:07:58,724 - INFO - Checking dependencies.
+2025-04-01 13:07:59,223 - INFO - Application started.
+2025-04-01 13:07:59,223 - INFO - Checking if the script is running as an administrator.
+2025-04-01 13:07:59,225 - DEBUG - Admin status: True
+2025-04-01 13:07:59,225 - INFO - Admin status: True
+2025-04-01 13:07:59,225 - INFO - Admin privileges detected. Proceeding with application initialization.
+2025-04-01 13:07:59,225 - INFO - Checking Python installation.
+2025-04-01 13:07:59,225 - INFO - Checking Python installation.
+2025-04-01 13:07:59,225 - INFO - Python installation check completed.
+2025-04-01 13:07:59,225 - INFO - Checking dependencies.
+2025-04-01 13:07:59,225 - INFO - Checking dependencies.
+2025-04-01 13:07:59,729 - INFO - Application started.
+2025-04-01 13:07:59,729 - INFO - Checking if the script is running as an administrator.
+2025-04-01 13:07:59,730 - DEBUG - Admin status: True
+2025-04-01 13:07:59,730 - INFO - Admin status: True
+2025-04-01 13:07:59,730 - INFO - Admin privileges detected. Proceeding with application initialization.
+2025-04-01 13:07:59,730 - INFO - Checking Python installation.
+2025-04-01 13:07:59,731 - INFO - Checking Python installation.
+2025-04-01 13:07:59,731 - INFO - Python installation check completed.
+2025-04-01 13:07:59,731 - INFO - Checking dependencies.
+2025-04-01 13:07:59,731 - INFO - Checking dependencies.
+2025-04-01 13:08:00,241 - INFO - Application started.
+2025-04-01 13:08:00,241 - INFO - Checking if the script is running as an administrator.
+2025-04-01 13:08:00,242 - DEBUG - Admin status: True
+2025-04-01 13:08:00,242 - INFO - Admin status: True
+2025-04-01 13:08:00,242 - INFO - Admin privileges detected. Proceeding with application initialization.
+2025-04-01 13:08:00,242 - INFO - Checking Python installation.
+2025-04-01 13:08:00,242 - INFO - Checking Python installation.
+2025-04-01 13:08:00,243 - INFO - Python installation check completed.
+2025-04-01 13:08:00,243 - INFO - Checking dependencies.
+2025-04-01 13:08:00,243 - INFO - Checking dependencies.
+2025-04-01 13:08:00,747 - INFO - Application started.
+2025-04-01 13:08:00,747 - INFO - Checking if the script is running as an administrator.
+2025-04-01 13:08:00,748 - DEBUG - Admin status: True
+2025-04-01 13:08:00,748 - INFO - Admin status: True
+2025-04-01 13:08:00,748 - INFO - Admin privileges detected. Proceeding with application initialization.
+2025-04-01 13:08:00,748 - INFO - Checking Python installation.
+2025-04-01 13:08:00,748 - INFO - Checking Python installation.
+2025-04-01 13:08:00,749 - INFO - Python installation check completed.
+2025-04-01 13:08:00,749 - INFO - Checking dependencies.
+2025-04-01 13:08:00,749 - INFO - Checking dependencies.
+2025-04-01 13:08:01,247 - INFO - Application started.
+2025-04-01 13:08:01,247 - INFO - Checking if the script is running as an administrator.
+2025-04-01 13:08:01,248 - DEBUG - Admin status: True
+2025-04-01 13:08:01,248 - INFO - Admin status: True
+2025-04-01 13:08:01,248 - INFO - Admin privileges detected. Proceeding with application initialization.
+2025-04-01 13:08:01,248 - INFO - Checking Python installation.
+2025-04-01 13:08:01,248 - INFO - Checking Python installation.
+2025-04-01 13:08:01,249 - INFO - Python installation check completed.
+2025-04-01 13:08:01,249 - INFO - Checking dependencies.
+2025-04-01 13:08:01,249 - INFO - Checking dependencies.
+2025-04-01 13:08:01,752 - INFO - Application started.
+2025-04-01 13:08:01,752 - INFO - Checking if the script is running as an administrator.
+2025-04-01 13:08:01,753 - DEBUG - Admin status: True
+2025-04-01 13:08:01,753 - INFO - Admin status: True
+2025-04-01 13:08:01,753 - INFO - Admin privileges detected. Proceeding with application initialization.
+2025-04-01 13:08:01,753 - INFO - Checking Python installation.
+2025-04-01 13:08:01,753 - INFO - Checking Python installation.
+2025-04-01 13:08:01,754 - INFO - Python installation check completed.
+2025-04-01 13:08:01,754 - INFO - Checking dependencies.
+2025-04-01 13:08:01,754 - INFO - Checking dependencies.
+2025-04-01 13:08:02,253 - INFO - Application started.
+2025-04-01 13:08:02,253 - INFO - Checking if the script is running as an administrator.
+2025-04-01 13:08:02,254 - DEBUG - Admin status: True
+2025-04-01 13:08:02,254 - INFO - Admin status: True
+2025-04-01 13:08:02,254 - INFO - Admin privileges detected. Proceeding with application initialization.
+2025-04-01 13:08:02,254 - INFO - Checking Python installation.
+2025-04-01 13:08:02,254 - INFO - Checking Python installation.
+2025-04-01 13:08:02,255 - INFO - Python installation check completed.
+2025-04-01 13:08:02,255 - INFO - Checking dependencies.
+2025-04-01 13:08:02,255 - INFO - Checking dependencies.
+2025-04-01 13:08:02,757 - INFO - Application started.
+2025-04-01 13:08:02,757 - INFO - Checking if the script is running as an administrator.
+2025-04-01 13:08:02,758 - DEBUG - Admin status: True
+2025-04-01 13:08:02,758 - INFO - Admin status: True
+2025-04-01 13:08:02,758 - INFO - Admin privileges detected. Proceeding with application initialization.
+2025-04-01 13:08:02,758 - INFO - Checking Python installation.
+2025-04-01 13:08:02,758 - INFO - Checking Python installation.
+2025-04-01 13:08:02,759 - INFO - Python installation check completed.
+2025-04-01 13:08:02,759 - INFO - Checking dependencies.
+2025-04-01 13:08:02,759 - INFO - Checking dependencies.
+2025-04-01 13:08:03,256 - INFO - Application started.
+2025-04-01 13:08:03,256 - INFO - Checking if the script is running as an administrator.
+2025-04-01 13:08:03,258 - DEBUG - Admin status: True
+2025-04-01 13:08:03,258 - INFO - Admin status: True
+2025-04-01 13:08:03,258 - INFO - Admin privileges detected. Proceeding with application initialization.
+2025-04-01 13:08:03,258 - INFO - Checking Python installation.
+2025-04-01 13:08:03,258 - INFO - Checking Python installation.
+2025-04-01 13:08:03,258 - INFO - Python installation check completed.
+2025-04-01 13:08:03,258 - INFO - Checking dependencies.
+2025-04-01 13:08:03,258 - INFO - Checking dependencies.
+2025-04-01 13:08:03,761 - INFO - Application started.
+2025-04-01 13:08:03,761 - INFO - Checking if the script is running as an administrator.
+2025-04-01 13:08:03,762 - DEBUG - Admin status: True
+2025-04-01 13:08:03,762 - INFO - Admin status: True
+2025-04-01 13:08:03,762 - INFO - Admin privileges detected. Proceeding with application initialization.
+2025-04-01 13:08:03,762 - INFO - Checking Python installation.
+2025-04-01 13:08:03,762 - INFO - Checking Python installation.
+2025-04-01 13:08:03,763 - INFO - Python installation check completed.
+2025-04-01 13:08:03,763 - INFO - Checking dependencies.
+2025-04-01 13:08:03,763 - INFO - Checking dependencies.
+2025-04-01 13:08:04,263 - INFO - Application started.
+2025-04-01 13:08:04,263 - INFO - Checking if the script is running as an administrator.
+2025-04-01 13:08:04,264 - DEBUG - Admin status: True
+2025-04-01 13:08:04,264 - INFO - Admin status: True
+2025-04-01 13:08:04,264 - INFO - Admin privileges detected. Proceeding with application initialization.
+2025-04-01 13:08:04,264 - INFO - Checking Python installation.
+2025-04-01 13:08:04,264 - INFO - Checking Python installation.
+2025-04-01 13:08:04,265 - INFO - Python installation check completed.
+2025-04-01 13:08:04,265 - INFO - Checking dependencies.
+2025-04-01 13:08:04,265 - INFO - Checking dependencies.
+2025-04-01 13:08:04,768 - INFO - Application started.
+2025-04-01 13:08:04,768 - INFO - Checking if the script is running as an administrator.
+2025-04-01 13:08:04,769 - DEBUG - Admin status: True
+2025-04-01 13:08:04,769 - INFO - Admin status: True
+2025-04-01 13:08:04,769 - INFO - Admin privileges detected. Proceeding with application initialization.
+2025-04-01 13:08:04,769 - INFO - Checking Python installation.
+2025-04-01 13:08:04,769 - INFO - Checking Python installation.
+2025-04-01 13:08:04,770 - INFO - Python installation check completed.
+2025-04-01 13:08:04,770 - INFO - Checking dependencies.
+2025-04-01 13:08:04,770 - INFO - Checking dependencies.
+2025-04-01 13:08:05,269 - INFO - Application started.
+2025-04-01 13:08:05,270 - INFO - Checking if the script is running as an administrator.
+2025-04-01 13:08:05,271 - DEBUG - Admin status: True
+2025-04-01 13:08:05,271 - INFO - Admin status: True
+2025-04-01 13:08:05,271 - INFO - Admin privileges detected. Proceeding with application initialization.
+2025-04-01 13:08:05,271 - INFO - Checking Python installation.
+2025-04-01 13:08:05,271 - INFO - Checking Python installation.
+2025-04-01 13:08:05,272 - INFO - Python installation check completed.
+2025-04-01 13:08:05,272 - INFO - Checking dependencies.
+2025-04-01 13:08:05,272 - INFO - Checking dependencies.
+2025-04-01 13:08:05,774 - INFO - Application started.
+2025-04-01 13:08:05,775 - INFO - Checking if the script is running as an administrator.
+2025-04-01 13:08:05,776 - DEBUG - Admin status: True
+2025-04-01 13:08:05,776 - INFO - Admin status: True
+2025-04-01 13:08:05,776 - INFO - Admin privileges detected. Proceeding with application initialization.
+2025-04-01 13:08:05,776 - INFO - Checking Python installation.
+2025-04-01 13:08:05,776 - INFO - Checking Python installation.
+2025-04-01 13:08:05,776 - INFO - Python installation check completed.
+2025-04-01 13:08:05,777 - INFO - Checking dependencies.
+2025-04-01 13:08:05,777 - INFO - Checking dependencies.
+2025-04-01 13:08:06,276 - INFO - Application started.
+2025-04-01 13:08:06,276 - INFO - Checking if the script is running as an administrator.
+2025-04-01 13:08:06,277 - DEBUG - Admin status: True
+2025-04-01 13:08:06,277 - INFO - Admin status: True
+2025-04-01 13:08:06,277 - INFO - Admin privileges detected. Proceeding with application initialization.
+2025-04-01 13:08:06,277 - INFO - Checking Python installation.
+2025-04-01 13:08:06,277 - INFO - Checking Python installation.
+2025-04-01 13:08:06,278 - INFO - Python installation check completed.
+2025-04-01 13:08:06,278 - INFO - Checking dependencies.
+2025-04-01 13:08:06,278 - INFO - Checking dependencies.
+2025-04-01 13:08:06,784 - INFO - Application started.
+2025-04-01 13:08:06,784 - INFO - Checking if the script is running as an administrator.
+2025-04-01 13:08:06,786 - DEBUG - Admin status: True
+2025-04-01 13:08:06,786 - INFO - Admin status: True
+2025-04-01 13:08:06,786 - INFO - Admin privileges detected. Proceeding with application initialization.
+2025-04-01 13:08:06,786 - INFO - Checking Python installation.
+2025-04-01 13:08:06,786 - INFO - Checking Python installation.
+2025-04-01 13:08:06,786 - INFO - Python installation check completed.
+2025-04-01 13:08:06,786 - INFO - Checking dependencies.
+2025-04-01 13:08:06,786 - INFO - Checking dependencies.
+2025-04-01 13:08:07,287 - INFO - Application started.
+2025-04-01 13:08:07,287 - INFO - Checking if the script is running as an administrator.
+2025-04-01 13:08:07,289 - DEBUG - Admin status: True
+2025-04-01 13:08:07,289 - INFO - Admin status: True
+2025-04-01 13:08:07,289 - INFO - Admin privileges detected. Proceeding with application initialization.
+2025-04-01 13:08:07,289 - INFO - Checking Python installation.
+2025-04-01 13:08:07,289 - INFO - Checking Python installation.
+2025-04-01 13:08:07,289 - INFO - Python installation check completed.
+2025-04-01 13:08:07,289 - INFO - Checking dependencies.
+2025-04-01 13:08:07,290 - INFO - Checking dependencies.
+2025-04-01 13:08:07,798 - INFO - Application started.
+2025-04-01 13:08:07,799 - INFO - Checking if the script is running as an administrator.
+2025-04-01 13:08:07,800 - DEBUG - Admin status: True
+2025-04-01 13:08:07,800 - INFO - Admin status: True
+2025-04-01 13:08:07,800 - INFO - Admin privileges detected. Proceeding with application initialization.
+2025-04-01 13:08:07,800 - INFO - Checking Python installation.
+2025-04-01 13:08:07,800 - INFO - Checking Python installation.
+2025-04-01 13:08:07,800 - INFO - Python installation check completed.
+2025-04-01 13:08:07,801 - INFO - Checking dependencies.
+2025-04-01 13:08:07,801 - INFO - Checking dependencies.
+2025-04-01 13:08:08,306 - INFO - Application started.
+2025-04-01 13:08:08,306 - INFO - Checking if the script is running as an administrator.
+2025-04-01 13:08:08,308 - DEBUG - Admin status: True
+2025-04-01 13:08:08,308 - INFO - Admin status: True
+2025-04-01 13:08:08,308 - INFO - Admin privileges detected. Proceeding with application initialization.
+2025-04-01 13:08:08,308 - INFO - Checking Python installation.
+2025-04-01 13:08:08,308 - INFO - Checking Python installation.
+2025-04-01 13:08:08,308 - INFO - Python installation check completed.
+2025-04-01 13:08:08,308 - INFO - Checking dependencies.
+2025-04-01 13:08:08,308 - INFO - Checking dependencies.
+2025-04-01 13:08:08,818 - INFO - Application started.
+2025-04-01 13:08:08,818 - INFO - Checking if the script is running as an administrator.
+2025-04-01 13:08:08,819 - DEBUG - Admin status: True
+2025-04-01 13:08:08,819 - INFO - Admin status: True
+2025-04-01 13:08:08,819 - INFO - Admin privileges detected. Proceeding with application initialization.
+2025-04-01 13:08:08,819 - INFO - Checking Python installation.
+2025-04-01 13:08:08,819 - INFO - Checking Python installation.
+2025-04-01 13:08:08,820 - INFO - Python installation check completed.
+2025-04-01 13:08:08,820 - INFO - Checking dependencies.
+2025-04-01 13:08:08,820 - INFO - Checking dependencies.
+2025-04-01 13:08:09,323 - INFO - Application started.
+2025-04-01 13:08:09,323 - INFO - Checking if the script is running as an administrator.
+2025-04-01 13:08:09,325 - DEBUG - Admin status: True
+2025-04-01 13:08:09,333 - INFO - Admin status: True
+2025-04-01 13:08:09,333 - INFO - Admin privileges detected. Proceeding with application initialization.
+2025-04-01 13:08:09,333 - INFO - Checking Python installation.
+2025-04-01 13:08:09,333 - INFO - Checking Python installation.
+2025-04-01 13:08:09,334 - INFO - Python installation check completed.
+2025-04-01 13:08:09,334 - INFO - Checking dependencies.
+2025-04-01 13:08:09,334 - INFO - Checking dependencies.
+2025-04-01 13:08:09,840 - INFO - Application started.
+2025-04-01 13:08:09,840 - INFO - Checking if the script is running as an administrator.
+2025-04-01 13:08:09,842 - DEBUG - Admin status: True
+2025-04-01 13:08:09,842 - INFO - Admin status: True
+2025-04-01 13:08:09,842 - INFO - Admin privileges detected. Proceeding with application initialization.
+2025-04-01 13:08:09,842 - INFO - Checking Python installation.
+2025-04-01 13:08:09,842 - INFO - Checking Python installation.
+2025-04-01 13:08:09,842 - INFO - Python installation check completed.
+2025-04-01 13:08:09,843 - INFO - Checking dependencies.
+2025-04-01 13:08:09,843 - INFO - Checking dependencies.
+2025-04-01 13:08:10,346 - INFO - Application started.
+2025-04-01 13:08:10,346 - INFO - Checking if the script is running as an administrator.
+2025-04-01 13:08:10,348 - DEBUG - Admin status: True
+2025-04-01 13:08:10,348 - INFO - Admin status: True
+2025-04-01 13:08:10,348 - INFO - Admin privileges detected. Proceeding with application initialization.
+2025-04-01 13:08:10,348 - INFO - Checking Python installation.
+2025-04-01 13:08:10,348 - INFO - Checking Python installation.
+2025-04-01 13:08:10,348 - INFO - Python installation check completed.
+2025-04-01 13:08:10,349 - INFO - Checking dependencies.
+2025-04-01 13:08:10,349 - INFO - Checking dependencies.
+2025-04-01 13:08:10,851 - INFO - Application started.
+2025-04-01 13:08:10,851 - INFO - Checking if the script is running as an administrator.
+2025-04-01 13:08:10,852 - DEBUG - Admin status: True
+2025-04-01 13:08:10,852 - INFO - Admin status: True
+2025-04-01 13:08:10,852 - INFO - Admin privileges detected. Proceeding with application initialization.
+2025-04-01 13:08:10,852 - INFO - Checking Python installation.
+2025-04-01 13:08:10,852 - INFO - Checking Python installation.
+2025-04-01 13:08:10,853 - INFO - Python installation check completed.
+2025-04-01 13:08:10,853 - INFO - Checking dependencies.
+2025-04-01 13:08:10,853 - INFO - Checking dependencies.
+2025-04-01 13:08:11,353 - INFO - Application started.
+2025-04-01 13:08:11,353 - INFO - Checking if the script is running as an administrator.
+2025-04-01 13:08:11,355 - DEBUG - Admin status: True
+2025-04-01 13:08:11,355 - INFO - Admin status: True
+2025-04-01 13:08:11,355 - INFO - Admin privileges detected. Proceeding with application initialization.
+2025-04-01 13:08:11,355 - INFO - Checking Python installation.
+2025-04-01 13:08:11,355 - INFO - Checking Python installation.
+2025-04-01 13:08:11,355 - INFO - Python installation check completed.
+2025-04-01 13:08:11,355 - INFO - Checking dependencies.
+2025-04-01 13:08:11,355 - INFO - Checking dependencies.
+2025-04-01 13:08:11,859 - INFO - Application started.
+2025-04-01 13:08:11,860 - INFO - Checking if the script is running as an administrator.
+2025-04-01 13:08:11,861 - DEBUG - Admin status: True
+2025-04-01 13:08:11,861 - INFO - Admin status: True
+2025-04-01 13:08:11,861 - INFO - Admin privileges detected. Proceeding with application initialization.
+2025-04-01 13:08:11,861 - INFO - Checking Python installation.
+2025-04-01 13:08:11,861 - INFO - Checking Python installation.
+2025-04-01 13:08:11,862 - INFO - Python installation check completed.
+2025-04-01 13:08:11,862 - INFO - Checking dependencies.
+2025-04-01 13:08:11,862 - INFO - Checking dependencies.
+2025-04-01 13:08:12,368 - INFO - Application started.
+2025-04-01 13:08:12,368 - INFO - Checking if the script is running as an administrator.
+2025-04-01 13:08:12,369 - DEBUG - Admin status: True
+2025-04-01 13:08:12,369 - INFO - Admin status: True
+2025-04-01 13:08:12,370 - INFO - Admin privileges detected. Proceeding with application initialization.
+2025-04-01 13:08:12,370 - INFO - Checking Python installation.
+2025-04-01 13:08:12,370 - INFO - Checking Python installation.
+2025-04-01 13:08:12,370 - INFO - Python installation check completed.
+2025-04-01 13:08:12,370 - INFO - Checking dependencies.
+2025-04-01 13:08:12,370 - INFO - Checking dependencies.
+2025-04-01 13:08:12,877 - INFO - Application started.
+2025-04-01 13:08:12,878 - INFO - Checking if the script is running as an administrator.
+2025-04-01 13:08:12,879 - DEBUG - Admin status: True
+2025-04-01 13:08:12,879 - INFO - Admin status: True
+2025-04-01 13:08:12,879 - INFO - Admin privileges detected. Proceeding with application initialization.
+2025-04-01 13:08:12,879 - INFO - Checking Python installation.
+2025-04-01 13:08:12,879 - INFO - Checking Python installation.
+2025-04-01 13:08:12,880 - INFO - Python installation check completed.
+2025-04-01 13:08:12,880 - INFO - Checking dependencies.
+2025-04-01 13:08:12,880 - INFO - Checking dependencies.
+2025-04-01 13:08:13,394 - INFO - Application started.
+2025-04-01 13:08:13,394 - INFO - Checking if the script is running as an administrator.
+2025-04-01 13:08:13,395 - DEBUG - Admin status: True
+2025-04-01 13:08:13,396 - INFO - Admin status: True
+2025-04-01 13:08:13,396 - INFO - Admin privileges detected. Proceeding with application initialization.
+2025-04-01 13:08:13,396 - INFO - Checking Python installation.
+2025-04-01 13:08:13,396 - INFO - Checking Python installation.
+2025-04-01 13:08:13,396 - INFO - Python installation check completed.
+2025-04-01 13:08:13,396 - INFO - Checking dependencies.
+2025-04-01 13:08:13,396 - INFO - Checking dependencies.
+2025-04-01 13:08:13,905 - INFO - Application started.
+2025-04-01 13:08:13,905 - INFO - Checking if the script is running as an administrator.
+2025-04-01 13:08:13,906 - DEBUG - Admin status: True
+2025-04-01 13:08:13,906 - INFO - Admin status: True
+2025-04-01 13:08:13,906 - INFO - Admin privileges detected. Proceeding with application initialization.
+2025-04-01 13:08:13,906 - INFO - Checking Python installation.
+2025-04-01 13:08:13,906 - INFO - Checking Python installation.
+2025-04-01 13:08:13,907 - INFO - Python installation check completed.
+2025-04-01 13:08:13,907 - INFO - Checking dependencies.
+2025-04-01 13:08:13,907 - INFO - Checking dependencies.
+2025-04-01 13:08:14,422 - INFO - Application started.
+2025-04-01 13:08:14,422 - INFO - Checking if the script is running as an administrator.
+2025-04-01 13:08:14,423 - DEBUG - Admin status: True
+2025-04-01 13:08:14,423 - INFO - Admin status: True
+2025-04-01 13:08:14,423 - INFO - Admin privileges detected. Proceeding with application initialization.
+2025-04-01 13:08:14,423 - INFO - Checking Python installation.
+2025-04-01 13:08:14,423 - INFO - Checking Python installation.
+2025-04-01 13:08:14,424 - INFO - Python installation check completed.
+2025-04-01 13:08:14,424 - INFO - Checking dependencies.
+2025-04-01 13:08:14,424 - INFO - Checking dependencies.
+2025-04-01 13:08:14,936 - INFO - Application started.
+2025-04-01 13:08:14,936 - INFO - Checking if the script is running as an administrator.
+2025-04-01 13:08:14,938 - DEBUG - Admin status: True
+2025-04-01 13:08:14,938 - INFO - Admin status: True
+2025-04-01 13:08:14,938 - INFO - Admin privileges detected. Proceeding with application initialization.
+2025-04-01 13:08:14,938 - INFO - Checking Python installation.
+2025-04-01 13:08:14,938 - INFO - Checking Python installation.
+2025-04-01 13:08:14,938 - INFO - Python installation check completed.
+2025-04-01 13:08:14,938 - INFO - Checking dependencies.
+2025-04-01 13:08:14,939 - INFO - Checking dependencies.
+2025-04-01 13:08:15,443 - INFO - Application started.
+2025-04-01 13:08:15,443 - INFO - Checking if the script is running as an administrator.
+2025-04-01 13:08:15,444 - DEBUG - Admin status: True
+2025-04-01 13:08:15,444 - INFO - Admin status: True
+2025-04-01 13:08:15,444 - INFO - Admin privileges detected. Proceeding with application initialization.
+2025-04-01 13:08:15,444 - INFO - Checking Python installation.
+2025-04-01 13:08:15,444 - INFO - Checking Python installation.
+2025-04-01 13:08:15,445 - INFO - Python installation check completed.
+2025-04-01 13:08:15,445 - INFO - Checking dependencies.
+2025-04-01 13:08:15,445 - INFO - Checking dependencies.
+2025-04-01 13:08:15,988 - INFO - Application started.
+2025-04-01 13:08:15,988 - INFO - Checking if the script is running as an administrator.
+2025-04-01 13:08:15,990 - DEBUG - Admin status: True
+2025-04-01 13:08:15,990 - INFO - Admin status: True
+2025-04-01 13:08:15,990 - INFO - Admin privileges detected. Proceeding with application initialization.
+2025-04-01 13:08:15,990 - INFO - Checking Python installation.
+2025-04-01 13:08:15,990 - INFO - Checking Python installation.
+2025-04-01 13:08:15,990 - INFO - Python installation check completed.
+2025-04-01 13:08:15,990 - INFO - Checking dependencies.
+2025-04-01 13:08:15,990 - INFO - Checking dependencies.
+2025-04-01 13:08:16,511 - INFO - Application started.
+2025-04-01 13:08:16,511 - INFO - Checking if the script is running as an administrator.
+2025-04-01 13:08:16,512 - DEBUG - Admin status: True
+2025-04-01 13:08:16,512 - INFO - Admin status: True
+2025-04-01 13:08:16,512 - INFO - Admin privileges detected. Proceeding with application initialization.
+2025-04-01 13:08:16,512 - INFO - Checking Python installation.
+2025-04-01 13:08:16,512 - INFO - Checking Python installation.
+2025-04-01 13:08:16,513 - INFO - Python installation check completed.
+2025-04-01 13:08:16,513 - INFO - Checking dependencies.
+2025-04-01 13:08:16,513 - INFO - Checking dependencies.
+2025-04-01 13:08:17,027 - INFO - Application started.
+2025-04-01 13:08:17,027 - INFO - Checking if the script is running as an administrator.
+2025-04-01 13:08:17,028 - DEBUG - Admin status: True
+2025-04-01 13:08:17,028 - INFO - Admin status: True
+2025-04-01 13:08:17,028 - INFO - Admin privileges detected. Proceeding with application initialization.
+2025-04-01 13:08:17,028 - INFO - Checking Python installation.
+2025-04-01 13:08:17,029 - INFO - Checking Python installation.
+2025-04-01 13:08:17,029 - INFO - Python installation check completed.
+2025-04-01 13:08:17,029 - INFO - Checking dependencies.
+2025-04-01 13:08:17,029 - INFO - Checking dependencies.
+2025-04-01 13:08:17,541 - INFO - Application started.
+2025-04-01 13:08:17,541 - INFO - Checking if the script is running as an administrator.
+2025-04-01 13:08:17,543 - DEBUG - Admin status: True
+2025-04-01 13:08:17,543 - INFO - Admin status: True
+2025-04-01 13:08:17,543 - INFO - Admin privileges detected. Proceeding with application initialization.
+2025-04-01 13:08:17,543 - INFO - Checking Python installation.
+2025-04-01 13:08:17,543 - INFO - Checking Python installation.
+2025-04-01 13:08:17,544 - INFO - Python installation check completed.
+2025-04-01 13:08:17,544 - INFO - Checking dependencies.
+2025-04-01 13:08:17,544 - INFO - Checking dependencies.
+2025-04-01 13:26:50,546 - INFO - Application started.
+2025-04-01 13:26:50,546 - INFO - Checking if the script is running as an administrator.
+2025-04-01 13:26:50,547 - DEBUG - Admin status: False
+2025-04-01 13:26:50,547 - INFO - Admin status: False
+2025-04-01 13:26:50,547 - DEBUG - Admin privileges not detected. Attempting to relaunch as admin.
+2025-04-01 13:26:50,547 - INFO - Attempting to relaunch the script with administrator privileges.
+2025-04-01 13:27:00,802 - INFO - Relaunched successfully. Exiting current instance.
+2025-04-01 13:27:02,445 - INFO - Application started.
+2025-04-01 13:27:02,446 - INFO - Checking if the script is running as an administrator.
+2025-04-01 13:27:02,447 - DEBUG - Admin status: True
+2025-04-01 13:27:02,447 - INFO - Admin status: True
+2025-04-01 13:27:02,447 - INFO - Admin privileges detected. Proceeding with application initialization.
+2025-04-01 13:27:02,447 - INFO - Checking Python installation.
+2025-04-01 13:27:02,447 - INFO - Checking Python installation.
+2025-04-01 13:27:02,448 - INFO - Python installation check completed.
+2025-04-01 13:27:02,448 - INFO - Checking dependencies.
+2025-04-01 13:27:02,448 - INFO - Initialization checks completed successfully.
+2025-04-01 13:27:14,132 - INFO - FirewallManagerApp initialized successfully.
+2025-04-01 13:27:35,400 - DEBUG - STREAM b'IHDR' 16 13
+2025-04-01 13:27:35,401 - DEBUG - STREAM b'pHYs' 41 9
+2025-04-01 13:27:35,401 - DEBUG - STREAM b'cHRM' 62 32
+2025-04-01 13:27:35,401 - DEBUG - STREAM b'IDAT' 106 1836875
+2025-04-01 13:27:35,475 - DEBUG - STREAM b'IHDR' 16 13
+2025-04-01 13:27:35,475 - DEBUG - STREAM b'pHYs' 41 9
+2025-04-01 13:27:35,475 - DEBUG - STREAM b'cHRM' 62 32
+2025-04-01 13:27:35,475 - DEBUG - STREAM b'IDAT' 106 1836875
+2025-04-01 13:27:35,849 - DEBUG - STREAM b'IHDR' 16 13
+2025-04-01 13:27:35,849 - DEBUG - STREAM b'pHYs' 41 9
+2025-04-01 13:27:35,849 - DEBUG - STREAM b'cHRM' 62 32
+2025-04-01 13:27:35,849 - DEBUG - STREAM b'IDAT' 106 1836875
+2025-04-01 13:27:39,735 - DEBUG - STREAM b'IHDR' 16 13
+2025-04-01 13:27:39,735 - DEBUG - STREAM b'pHYs' 41 9
+2025-04-01 13:27:39,735 - DEBUG - STREAM b'cHRM' 62 32
+2025-04-01 13:27:39,735 - DEBUG - STREAM b'IDAT' 106 1836875
+2025-04-01 13:27:43,005 - DEBUG - STREAM b'IHDR' 16 13
+2025-04-01 13:27:43,005 - DEBUG - STREAM b'pHYs' 41 9
+2025-04-01 13:27:43,005 - DEBUG - STREAM b'cHRM' 62 32
+2025-04-01 13:27:43,005 - DEBUG - STREAM b'IDAT' 106 1836875
+2025-04-03 19:31:13,474 - INFO - Application started.
+2025-04-03 19:31:13,474 - INFO - Checking if the script is running as an administrator.
+2025-04-03 19:31:13,476 - DEBUG - Admin status: False
+2025-04-03 19:31:13,476 - INFO - Admin status: False
+2025-04-03 19:31:13,476 - DEBUG - Admin privileges not detected. Attempting to relaunch as admin.
+2025-04-03 19:31:13,476 - INFO - Attempting to relaunch the script with administrator privileges.
+2025-04-03 19:31:19,109 - INFO - Relaunched successfully. Exiting current instance.
+2025-04-03 19:31:20,907 - INFO - Application started.
+2025-04-03 19:31:20,907 - INFO - Checking if the script is running as an administrator.
+2025-04-03 19:31:20,909 - DEBUG - Admin status: True
+2025-04-03 19:31:20,909 - INFO - Admin status: True
+2025-04-03 19:31:20,909 - INFO - Admin privileges detected. Proceeding with application initialization.
+2025-04-03 19:31:20,909 - INFO - Checking Python installation.
+2025-04-03 19:31:20,909 - INFO - Checking Python installation.
+2025-04-03 19:31:20,910 - INFO - Python installation check completed.
+2025-04-03 19:31:20,910 - INFO - Checking dependencies.
+2025-04-03 19:31:20,910 - INFO - Initialization checks completed successfully.
+2025-04-03 19:31:42,200 - INFO - Ensuring log files exist.
+2025-04-03 19:31:42,201 - INFO - Log files check completed.
+2025-04-03 19:31:42,201 - INFO - FirewallManagerApp initialized successfully.
+2025-04-03 19:34:40,516 - DEBUG - Checking for updates...
+2025-04-03 19:34:40,518 - DEBUG - Starting new HTTP connection (1): 162.248.94.164:80
+2025-04-03 19:34:40,616 - DEBUG - http://162.248.94.164:80 "GET /N3xG3n_Firewall_Manager/version.txt HTTP/1.1" 200 5
+2025-04-03 19:34:40,616 - DEBUG - Current version: 1.2.8, Latest version: 1.2.8
+2025-04-03 19:34:40,616 - INFO - No updates found. The application is up-to-date.
+2025-04-03 19:44:18,736 - INFO - Application started.
+2025-04-03 19:44:18,736 - INFO - Checking if the script is running as an administrator.
+2025-04-03 19:44:18,737 - DEBUG - Admin status: False
+2025-04-03 19:44:18,738 - INFO - Admin status: False
+2025-04-03 19:44:18,738 - DEBUG - Admin privileges not detected. Attempting to relaunch as admin.
+2025-04-03 19:44:18,738 - INFO - Attempting to relaunch the script with administrator privileges.
+2025-04-03 19:44:20,252 - INFO - Relaunched successfully. Exiting current instance.
+2025-04-03 19:44:22,095 - INFO - Application started.
+2025-04-03 19:44:22,095 - INFO - Checking if the script is running as an administrator.
+2025-04-03 19:44:22,097 - DEBUG - Admin status: True
+2025-04-03 19:44:22,097 - INFO - Admin status: True
+2025-04-03 19:44:22,097 - INFO - Admin privileges detected. Proceeding with application initialization.
+2025-04-03 19:44:22,097 - INFO - Checking Python installation.
+2025-04-03 19:44:22,097 - INFO - Checking Python installation.
+2025-04-03 19:44:22,098 - INFO - Python installation check completed.
+2025-04-03 19:44:22,098 - INFO - Checking dependencies.
+2025-04-03 19:44:22,098 - INFO - Initialization checks completed successfully.
+2025-04-03 19:44:30,724 - INFO - Ensuring log files exist.
+2025-04-03 19:44:30,725 - INFO - Log files check completed.
+2025-04-03 19:44:30,725 - INFO - FirewallManagerApp initialized successfully.

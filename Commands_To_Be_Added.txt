@@ -1,0 +1,34 @@
+             ("List Active Rules", self.list_active_rules),
+             ("Detect Port Conflicts", self.detect_port_conflicts),
+             ("View Network Profile", self.view_network_profile),
+             ("Ping and Traceroute", self.ping_and_traceroute),
+             ("Port Scanning", self.port_scanning),
+             ("Malware Detection", self.malware_detection),
+             ("Clear Browser Cache", lambda: self.safe_execute(self.clear_browser_cache)),
+             ("Defragment Drives", lambda: self.safe_execute(self.defragment_drives)),
+             ("Windows Commands", self.show_windows_commands),
+             ("View Logs", self.view_logs),
+             ("Advanced Rule Management", self.advanced_rule_management),
+             ("View Network Traffic", self.view_network_traffic),
+             ("Generate Security Audit Report", self.generate_security_audit_report),
+             ("View Firewall Activity", self.view_firewall_activity),
+             ("View System Information", self.view_system_information),
+             ("View Network Connections", self.view_network_connections),
+             ("View Network Statistics", self.view_network_statistics),
+             ("View Network Devices", self.view_network_devices),
+             ("View Network Shares", self.view_network_shares),
+             ("View Network Services", self.view_network_services),
+             ("View Network Protocols", self.view_network_protocols),
+             ("View Network Interfaces", self.view_network_interfaces),
+             ("View Network Routes", self.view_network_routes),
+             ("View Network Topology", self.view_network_topology),
+             ("View Network Performance", self.view_network_performance),
+             ("View Network Security", self.view_network_security),
+             ("View Network Configuration", self.view_network_configuration),
+             ("View Network Policies", self.view_network_policies),
+
+
+create_admin_panel
+backup_configuration
+restore_configuration
+view_system_information

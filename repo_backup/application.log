@@ -1,0 +1,58 @@
+INFO:root:Checking if the script is running as an administrator.
+INFO:root:Admin privileges detected. Proceeding with application initialization.
+INFO:root:Checking Python installation.
+INFO:root:Python installation check completed.
+INFO:root:Checking dependencies.
+INFO:root:Dependency check completed.
+CRITICAL:root:An unexpected error occurred: can't invoke "toplevel" command: application has been destroyed
+Traceback (most recent call last):
+  File "C:\Users\Dizzy\Desktop\Firewall_Manger2.0\main.py", line 206, in <module>
+    app = FirewallManagerApp(root)
+  File "C:\Users\Dizzy\Desktop\Firewall_Manger2.0\ui.py", line 31, in __init__
+    self.authenticate_user()
+    ~~~~~~~~~~~~~~~~~~~~~~^^
+  File "C:\Users\Dizzy\Desktop\Firewall_Manger2.0\ui.py", line 68, in authenticate_user
+    choice = self.show_auth_dialog()
+  File "C:\Users\Dizzy\Desktop\Firewall_Manger2.0\ui.py", line 130, in show_auth_dialog
+    dialog = tk.Toplevel(self.root)
+  File "C:\Python313\Lib\tkinter\__init__.py", line 2821, in __init__
+    BaseWidget.__init__(self, master, 'toplevel', cnf, {}, extra)
+    ~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Python313\Lib\tkinter\__init__.py", line 2772, in __init__
+    self.tk.call(
+    ~~~~~~~~~~~~^
+        (widgetName, self._w) + extra + self._options(cnf))
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+_tkinter.TclError: can't invoke "toplevel" command: application has been destroyed
+INFO:root:Checking if the script is running as an administrator.
+INFO:root:Admin privileges detected. Proceeding with application initialization.
+INFO:root:Checking Python installation.
+INFO:root:Python installation check completed.
+INFO:root:Checking dependencies.
+INFO:root:Dependency check completed.
+CRITICAL:root:An unexpected error occurred: can't invoke "bind" command: application has been destroyed
+Traceback (most recent call last):
+  File "C:\Users\Dizzy\Desktop\Firewall_Manger2.0\main.py", line 206, in <module>
+    app = FirewallManagerApp(root)
+  File "C:\Users\Dizzy\Desktop\Firewall_Manger2.0\ui.py", line 33, in __init__
+    self.root.bind("<Configure>", self.on_resize)
+    ~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Python313\Lib\tkinter\__init__.py", line 1545, in bind
+    return self._bind(('bind', self._w), sequence, func, add)
+           ~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Python313\Lib\tkinter\__init__.py", line 1499, in _bind
+    self.tk.call(what + (sequence, cmd))
+    ~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^
+_tkinter.TclError: can't invoke "bind" command: application has been destroyed
+INFO:root:Checking if the script is running as an administrator.
+INFO:root:Admin privileges detected. Proceeding with application initialization.
+INFO:root:Checking Python installation.
+INFO:root:Python installation check completed.
+INFO:root:Checking dependencies.
+INFO:root:Dependency check completed.
+INFO:root:Checking if the script is running as an administrator.
+INFO:root:Admin privileges detected. Proceeding with application initialization.
+INFO:root:Checking Python installation.
+INFO:root:Python installation check completed.
+INFO:root:Checking dependencies.
+INFO:root:Dependency check completed.
