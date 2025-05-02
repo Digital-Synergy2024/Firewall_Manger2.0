@@ -18,7 +18,6 @@ A comprehensive tool for managing Windows Firewall rules with an intuitive graph
 - [License](#license)
 - [Contact](#contact)
 
-*   *Main Tab Interface*
 ![Firewall Manager UI](firewall_manager_ui.png)
 
 ## Features
